@@ -17,3 +17,8 @@ Copy the project folder to `Documents\Paradox Interactive\Hearts of Iron IV\mod\
 ## Map source
 
 The district geometry is derived from `karen07/moscow-geo` (`geojson/districts-in-mkad.geojson`), whose repository declares AGPL-3.0. The pack's `README.md` and `tools\data\SOURCE_ATTRIBUTION.txt` document the source and limitations. Rivers, terrain, and relief are approximate; verify the map in the target HOI4 version before gameplay.
+
+
+## Rebuild starting state ownership
+
+Run `python tools/build_moscow_scenario.py` from the project folder to regenerate all 108 Moscow state-history files from the GIS province/district mapping. The script validates that province IDs 1–906 are unique and assigns 82 states to the Moscow Administration, 14 to Vortex, and 12 to Ogorod.
