@@ -57,26 +57,38 @@ function preparePolygon(points) {
   };
 }
 
+// Regional footprint: European Russia at a deliberately enlarged gameplay scale.
+// Coordinates are map-space control points (not a survey-grade coastline); keep the
+// lakes and rivers in this same projection so all generated BMPs remain aligned.
 const landPolygons = [
   [
-    [255, 455], [282, 348], [358, 265], [390, 173], [545, 132], [680, 190],
-    [814, 119], [954, 142], [1075, 205], [1200, 151], [1350, 176], [1455, 142],
-    [1600, 184], [1748, 236], [1832, 344], [1792, 446], [1710, 514], [1690, 626],
-    [1580, 702], [1450, 684], [1330, 755], [1180, 715], [1050, 777], [920, 724],
-    [802, 769], [680, 703], [552, 738], [447, 670], [352, 700], [282, 621],
-    [248, 536], [214, 474],
+    [170, 505], [205, 445], [245, 385], [280, 335], [330, 285],
+    [370, 220], [425, 165], [500, 142], [560, 180], [625, 218],
+    [710, 224], [785, 190], [870, 168], [960, 132], [1060, 118],
+    [1160, 145], [1245, 130], [1330, 165], [1415, 155], [1500, 190],
+    [1570, 218], [1635, 270], [1690, 315], [1730, 365], [1760, 415],
+    [1728, 455], [1780, 490], [1755, 530], [1725, 570], [1700, 615],
+    [1650, 655], [1605, 690], [1545, 708], [1505, 755], [1475, 805],
+    [1435, 838], [1390, 850], [1350, 820], [1320, 780], [1275, 750],
+    [1220, 735], [1170, 755], [1110, 765], [1050, 748], [1000, 720],
+    [950, 710], [900, 720], [850, 710], [805, 685], [750, 690],
+    [700, 710], [650, 690], [605, 675], [565, 685], [520, 660],
+    [470, 650], [420, 630], [365, 620], [320, 595], [275, 585],
+    [230, 560], [190, 540],
   ],
-  [[1750, 82], [1815, 58], [1880, 91], [1892, 145], [1845, 178], [1780, 157], [1732, 119]],
-  [[1900, 230], [1942, 211], [1974, 253], [1950, 307], [1913, 291]],
-  [[934, 815], [996, 789], [1058, 826], [1030, 878], [970, 894], [918, 855]],
-  [[126, 363], [181, 341], [218, 379], [204, 428], [157, 441], [116, 410]],
-  [[1508, 792], [1561, 778], [1603, 814], [1574, 854], [1528, 844]],
-  [[704, 835], [750, 814], [790, 846], [770, 884], [722, 878]],
+  // Kola Peninsula and the northern Scandinavian/Finnish land edge.
+  [[430, 170], [455, 105], [510, 70], [555, 92], [585, 145], [565, 190], [510, 205]],
+  [[1510, 205], [1570, 175], [1630, 190], [1665, 230], [1635, 270], [1580, 260]],
 ].map(preparePolygon);
 
 const lakePolygons = [
-  [[1110, 300], [1150, 278], [1190, 300], [1178, 344], [1134, 354], [1098, 332]],
-  [[520, 460], [548, 444], [578, 460], [565, 490], [530, 494]],
+  // White Sea, Lake Ladoga, Lake Onega, and Lake Ilmen.
+  [[1195, 280], [1225, 255], [1250, 274], [1240, 312], [1210, 326], [1190, 305]],
+  [[700, 300], [725, 282], [748, 295], [750, 330], [730, 350], [706, 330]],
+  [[765, 325], [786, 302], [805, 320], [801, 352], [780, 365], [765, 348]],
+  [[650, 420], [667, 409], [681, 422], [675, 440], [659, 442]],
+  // Caspian Sea: kept as water in the map even though geographically inland.
+  [[1375, 680], [1415, 660], [1450, 682], [1460, 730], [1437, 780], [1400, 790], [1378, 750]],
 ].map(preparePolygon);
 
 function inPreparedPolygon(x, y, polygon) {
@@ -335,9 +347,13 @@ const terrainIndices = { plains: 1, forest: 2, hills: 3, mountain: 4, marsh: 6, 
 writeIndexedBmp(path.join(ROOT, "map", "terrain.bmp"), expandGridValues((id) => id <= SEA_COUNT ? 0 : terrainIndices[terrainByProvince.get(id)]), WIDTH, HEIGHT, terrainPalette);
 
 function mountainInfluence(x, y) {
-  const ridgeA = Math.max(0, 1 - Math.abs(y - (250 + 45 * Math.sin(x / 180))) / 115) * Math.max(0, 1 - Math.abs(x - 1000) / 850);
-  const ridgeB = Math.max(0, 1 - Math.abs(x - (1420 + 55 * Math.sin(y / 100))) / 90) * Math.max(0, 1 - Math.abs(y - 590) / 260);
-  return Math.max(ridgeA, ridgeB);
+  // Ural ridge on the eastern edge, plus the Caucasus foothills in the south.
+  const urals = Math.max(0, 1 - Math.abs(x - (1655 + 32 * Math.sin(y / 105))) / 95)
+    * Math.max(0, 1 - Math.abs(y - 480) / 430);
+  const caucasus = Math.max(0, 1 - Math.abs(y - (825 + 12 * Math.sin(x / 90))) / 58)
+    * Math.max(0, 1 - Math.abs(x - 1330) / 330);
+  const returnValue = Math.max(urals, caucasus);
+  return returnValue;
 }
 const grayscale = Array.from({ length: 256 }, (_, index) => [index, index, index]);
 writeIndexedBmp(path.join(ROOT, "map", "heightmap.bmp"), expandGridValues((id, gx, gy) => {
@@ -376,9 +392,11 @@ function drawRiver(points, width = 1, major = false) {
 const frontierRiver = [];
 for (let y = 210; y <= 745; y += 35) frontierRiver.push([frontierAt(y), y]);
 drawRiver(frontierRiver, 1, true);
-drawRiver([[760, 190], [730, 260], [770, 340], [720, 420], [680, 520], [610, 600], [520, 690], [430, 760]], 1);
-drawRiver([[1510, 220], [1470, 300], [1505, 380], [1450, 470], [1490, 560], [1570, 650], [1660, 700]], 1);
-drawRiver([[360, 300], [430, 340], [470, 410], [450, 490], [380, 560], [300, 600]], 0);
+// Major river corridors for the regional setting: Volga, Don, Dnieper and Northern Dvina.
+drawRiver([[1090, 330], [1055, 390], [1095, 450], [1080, 520], [1135, 590], [1185, 650], [1240, 710]], 1, true);
+drawRiver([[900, 470], [930, 520], [970, 570], [1000, 625], [1040, 675], [1100, 710]], 1);
+drawRiver([[690, 350], [660, 410], [675, 470], [645, 525], [620, 585], [590, 625]], 1);
+drawRiver([[920, 190], [900, 250], [930, 305], [905, 355], [870, 400]], 1);
 const riverPalette = Array.from({ length: 256 }, () => [0, 0, 0]);
 riverPalette[1] = [0, 0, 255];
 riverPalette[2] = [0, 255, 0];
