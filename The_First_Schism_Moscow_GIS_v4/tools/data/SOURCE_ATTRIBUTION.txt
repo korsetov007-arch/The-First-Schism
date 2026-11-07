@@ -1,0 +1,5 @@
+Source geometry: karen07/moscow-geo, geojson/districts-in-mkad.geojson
+URL: https://github.com/karen07/moscow-geo/blob/main/geojson/districts-in-mkad.geojson
+Repository README states GNU Affero General Public License v3.0 (AGPL-3.0).
+This pack keeps the source dataset as a compact delta-varint encoding to reproduce the transformed district geometry.
+District names are not present in the sourced 107-feature derived GeoJSON; IDs are therefore sequential source order, not official district names.

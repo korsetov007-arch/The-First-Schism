@@ -1,0 +1,16 @@
+{
+  "width": 48,
+  "height": 64,
+  "encoding": "4-bit values packed two per byte, low nibble then high nibble, row-major",
+  "source": "ivansglukhov/Moscow_roads; road elevation samples from elevation.nakarte.me",
+  "source_url": "https://github.com/ivansglukhov/Moscow_roads",
+  "source_blob_sha": "4b87a59c091e0a2e44e37d0fd1f5d4960611ada6",
+  "sample_count_in_map_bbox": 107800,
+  "source_elevation_quantiles_m": {
+    "p02": 121.11,
+    "p50": 154.95,
+    "p98": 214.49
+  },
+  "normalization": "measured quantile range normalized to 102..124 grayscale, smooth interpolation to 3072x4096",
+  "limitation": "interpolated from road-sampled elevations, not a complete high-resolution DEM."
+}

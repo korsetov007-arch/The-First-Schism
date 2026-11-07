@@ -1,0 +1,94 @@
+{
+  "map_width": 3072,
+  "map_height": 4096,
+  "pixel_count": 12582912,
+  "dimensions_multiple_of_256": true,
+  "pixel_limit_reference": 13238272,
+  "below_pixel_limit_reference": true,
+  "source_district_polygons": 107,
+  "province_count": 906,
+  "outer_belt_provinces": 159,
+  "urban_district_provinces": 747,
+  "district_raster_seam_pixels_filled": 5040,
+  "river_paths": [
+    "Москва-река",
+    "Яуза",
+    "Сетунь",
+    "Сходня",
+    "Городня"
+  ],
+  "geographic_boundary_source": "karen07/moscow-geo geojson/districts-in-mkad.geojson; 107 Polygon features; coordinate grid quantised to 0.0001 degree for compact embed",
+  "data_accuracy_notes": {
+    "districts": "based on public GIS polygons",
+    "rivers": "hand-traced approximate centre lines in lon/lat",
+    "roads": "schematic major corridors for preview only",
+    "heightmap": "synthetic low-relief, not an authoritative DEM",
+    "terrain": "urban/park/suburban categories with park geometry approximated"
+  },
+  "formats": {
+    "provinces.bmp": {
+      "file": "provinces.bmp",
+      "size": [
+        3072,
+        4096
+      ],
+      "mode": "RGB",
+      "format": "BMP"
+    },
+    "heightmap.bmp": {
+      "file": "heightmap.bmp",
+      "size": [
+        3072,
+        4096
+      ],
+      "mode": "L",
+      "format": "BMP"
+    },
+    "terrain.bmp": {
+      "file": "terrain.bmp",
+      "size": [
+        3072,
+        4096
+      ],
+      "mode": "P",
+      "format": "BMP"
+    },
+    "rivers.bmp": {
+      "file": "rivers.bmp",
+      "size": [
+        3072,
+        4096
+      ],
+      "mode": "P",
+      "format": "BMP"
+    },
+    "trees.bmp": {
+      "file": "trees.bmp",
+      "size": [
+        3072,
+        4096
+      ],
+      "mode": "P",
+      "format": "BMP"
+    },
+    "cities.bmp": {
+      "file": "cities.bmp",
+      "size": [
+        3072,
+        4096
+      ],
+      "mode": "P",
+      "format": "BMP"
+    },
+    "world_normal.bmp": {
+      "file": "world_normal.bmp",
+      "size": [
+        3072,
+        4096
+      ],
+      "mode": "RGB",
+      "format": "BMP"
+    }
+  },
+  "game_validation": "Image and metadata consistency checked by this generator; must still be run through HOI4 map editor/game error log before production use."
+}

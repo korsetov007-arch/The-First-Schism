@@ -1,0 +1,3624 @@
+1 = {
+	position = { 295.1 1977.9 }
+	rotation = 0.0
+}
+2 = {
+	position = { 259.2 2092.7 }
+	rotation = 0.0
+}
+3 = {
+	position = { 287.1 2163.4 }
+	rotation = 0.0
+}
+4 = {
+	position = { 382.2 1978.6 }
+	rotation = 0.0
+}
+5 = {
+	position = { 257.7 2271.6 }
+	rotation = 0.0
+}
+6 = {
+	position = { 420.4 2145.8 }
+	rotation = 0.0
+}
+7 = {
+	position = { 348.8 2096.8 }
+	rotation = 0.0
+}
+8 = {
+	position = { 482.9 1985.5 }
+	rotation = 0.0
+}
+9 = {
+	position = { 578.4 1988.5 }
+	rotation = 0.0
+}
+10 = {
+	position = { 367.2 2252.6 }
+	rotation = 0.0
+}
+11 = {
+	position = { 475.5 2248.1 }
+	rotation = 0.0
+}
+12 = {
+	position = { 480.1 2136.3 }
+	rotation = 0.0
+}
+13 = {
+	position = { 577.0 2152.0 }
+	rotation = 0.0
+}
+14 = {
+	position = { 447.1 2319.4 }
+	rotation = 0.0
+}
+15 = {
+	position = { 669.8 2341.0 }
+	rotation = 0.0
+}
+16 = {
+	position = { 566.6 2335.0 }
+	rotation = 0.0
+}
+17 = {
+	position = { 587.6 2241.2 }
+	rotation = 0.0
+}
+18 = {
+	position = { 695.7 2235.8 }
+	rotation = 0.0
+}
+19 = {
+	position = { 1648.0 2295.8 }
+	rotation = 0.0
+}
+20 = {
+	position = { 1633.4 2467.3 }
+	rotation = 0.0
+}
+21 = {
+	position = { 1710.0 2449.6 }
+	rotation = 0.0
+}
+22 = {
+	position = { 1664.9 2363.6 }
+	rotation = 0.0
+}
+23 = {
+	position = { 1670.3 2535.3 }
+	rotation = 0.0
+}
+24 = {
+	position = { 1832.0 2535.8 }
+	rotation = 0.0
+}
+25 = {
+	position = { 1820.2 2604.2 }
+	rotation = 0.0
+}
+26 = {
+	position = { 1914.8 2609.7 }
+	rotation = 0.0
+}
+27 = {
+	position = { 1853.1 2712.4 }
+	rotation = 0.0
+}
+28 = {
+	position = { 1926.3 2722.5 }
+	rotation = 0.0
+}
+29 = {
+	position = { 1908.4 2801.4 }
+	rotation = 0.0
+}
+30 = {
+	position = { 2014.3 2606.5 }
+	rotation = 0.0
+}
+31 = {
+	position = { 1938.8 2512.1 }
+	rotation = 0.0
+}
+32 = {
+	position = { 2005.5 2488.4 }
+	rotation = 0.0
+}
+33 = {
+	position = { 2013.3 2723.2 }
+	rotation = 0.0
+}
+34 = {
+	position = { 459.0 2478.9 }
+	rotation = 0.0
+}
+35 = {
+	position = { 591.6 2418.4 }
+	rotation = 0.0
+}
+36 = {
+	position = { 661.7 2483.0 }
+	rotation = 0.0
+}
+37 = {
+	position = { 512.3 2490.6 }
+	rotation = 0.0
+}
+38 = {
+	position = { 660.4 2117.8 }
+	rotation = 0.0
+}
+39 = {
+	position = { 763.8 2117.8 }
+	rotation = 0.0
+}
+40 = {
+	position = { 704.7 2422.5 }
+	rotation = 0.0
+}
+41 = {
+	position = { 914.2 2452.2 }
+	rotation = 0.0
+}
+42 = {
+	position = { 785.6 2293.4 }
+	rotation = 0.0
+}
+43 = {
+	position = { 771.4 2205.2 }
+	rotation = 0.0
+}
+44 = {
+	position = { 888.8 2346.2 }
+	rotation = 0.0
+}
+45 = {
+	position = { 985.8 2323.1 }
+	rotation = 0.0
+}
+46 = {
+	position = { 812.2 2454.4 }
+	rotation = 0.0
+}
+47 = {
+	position = { 697.0 2619.5 }
+	rotation = 0.0
+}
+48 = {
+	position = { 694.1 2712.3 }
+	rotation = 0.0
+}
+49 = {
+	position = { 801.1 2713.0 }
+	rotation = 0.0
+}
+50 = {
+	position = { 787.9 2643.3 }
+	rotation = 0.0
+}
+51 = {
+	position = { 767.6 2563.0 }
+	rotation = 0.0
+}
+52 = {
+	position = { 883.1 2646.4 }
+	rotation = 0.0
+}
+53 = {
+	position = { 891.6 2551.1 }
+	rotation = 0.0
+}
+54 = {
+	position = { 274.4 2381.2 }
+	rotation = 0.0
+}
+55 = {
+	position = { 262.7 2454.1 }
+	rotation = 0.0
+}
+56 = {
+	position = { 353.0 2480.9 }
+	rotation = 0.0
+}
+57 = {
+	position = { 375.8 2393.7 }
+	rotation = 0.0
+}
+58 = {
+	position = { 307.5 2562.6 }
+	rotation = 0.0
+}
+59 = {
+	position = { 410.6 2565.8 }
+	rotation = 0.0
+}
+60 = {
+	position = { 367.1 2654.0 }
+	rotation = 0.0
+}
+61 = {
+	position = { 522.6 2566.2 }
+	rotation = 0.0
+}
+62 = {
+	position = { 408.5 2797.9 }
+	rotation = 0.0
+}
+63 = {
+	position = { 477.4 2651.1 }
+	rotation = 0.0
+}
+64 = {
+	position = { 575.8 2638.1 }
+	rotation = 0.0
+}
+65 = {
+	position = { 610.9 2568.9 }
+	rotation = 0.0
+}
+66 = {
+	position = { 2352.6 1732.8 }
+	rotation = 0.0
+}
+67 = {
+	position = { 2438.4 1747.3 }
+	rotation = 0.0
+}
+68 = {
+	position = { 2360.7 1645.3 }
+	rotation = 0.0
+}
+69 = {
+	position = { 2445.5 1663.9 }
+	rotation = 0.0
+}
+70 = {
+	position = { 2440.6 1546.4 }
+	rotation = 0.0
+}
+71 = {
+	position = { 2532.3 1665.0 }
+	rotation = 0.0
+}
+72 = {
+	position = { 2519.4 1575.1 }
+	rotation = 0.0
+}
+73 = {
+	position = { 2565.7 1486.6 }
+	rotation = 0.0
+}
+74 = {
+	position = { 1491.9 1703.0 }
+	rotation = 0.0
+}
+75 = {
+	position = { 1536.2 1657.7 }
+	rotation = 0.0
+}
+76 = {
+	position = { 1496.2 1790.8 }
+	rotation = 0.0
+}
+77 = {
+	position = { 1569.8 1562.6 }
+	rotation = 0.0
+}
+78 = {
+	position = { 1624.3 1616.7 }
+	rotation = 0.0
+}
+79 = {
+	position = { 637.6 3389.5 }
+	rotation = 0.0
+}
+80 = {
+	position = { 721.2 3388.5 }
+	rotation = 0.0
+}
+81 = {
+	position = { 762.0 3276.9 }
+	rotation = 0.0
+}
+82 = {
+	position = { 777.5 3157.4 }
+	rotation = 0.0
+}
+83 = {
+	position = { 875.4 3167.7 }
+	rotation = 0.0
+}
+84 = {
+	position = { 812.1 3362.7 }
+	rotation = 0.0
+}
+85 = {
+	position = { 841.8 3405.1 }
+	rotation = 0.0
+}
+86 = {
+	position = { 868.0 3249.0 }
+	rotation = 0.0
+}
+87 = {
+	position = { 949.7 3213.9 }
+	rotation = 0.0
+}
+88 = {
+	position = { 884.3 3326.1 }
+	rotation = 0.0
+}
+89 = {
+	position = { 952.4 3327.8 }
+	rotation = 0.0
+}
+90 = {
+	position = { 853.8 3449.8 }
+	rotation = 0.0
+}
+91 = {
+	position = { 923.0 3488.0 }
+	rotation = 0.0
+}
+92 = {
+	position = { 953.6 3383.3 }
+	rotation = 0.0
+}
+93 = {
+	position = { 1057.2 3288.3 }
+	rotation = 0.0
+}
+94 = {
+	position = { 1033.4 3401.7 }
+	rotation = 0.0
+}
+95 = {
+	position = { 1247.1 3157.8 }
+	rotation = 0.0
+}
+96 = {
+	position = { 1124.1 3295.3 }
+	rotation = 0.0
+}
+97 = {
+	position = { 1182.8 3194.6 }
+	rotation = 0.0
+}
+98 = {
+	position = { 1160.0 2903.1 }
+	rotation = 0.0
+}
+99 = {
+	position = { 1273.2 2984.0 }
+	rotation = 0.0
+}
+100 = {
+	position = { 1200.5 2766.8 }
+	rotation = 0.0
+}
+101 = {
+	position = { 1276.3 2710.5 }
+	rotation = 0.0
+}
+102 = {
+	position = { 1308.4 2767.8 }
+	rotation = 0.0
+}
+103 = {
+	position = { 1275.4 2877.5 }
+	rotation = 0.0
+}
+104 = {
+	position = { 1337.6 3040.3 }
+	rotation = 0.0
+}
+105 = {
+	position = { 1025.5 2969.0 }
+	rotation = 0.0
+}
+106 = {
+	position = { 1128.4 3005.4 }
+	rotation = 0.0
+}
+107 = {
+	position = { 1111.4 2794.5 }
+	rotation = 0.0
+}
+108 = {
+	position = { 1085.8 2859.2 }
+	rotation = 0.0
+}
+109 = {
+	position = { 1012.4 3575.2 }
+	rotation = 0.0
+}
+110 = {
+	position = { 1127.0 3612.5 }
+	rotation = 0.0
+}
+111 = {
+	position = { 1117.9 3376.7 }
+	rotation = 0.0
+}
+112 = {
+	position = { 1069.2 3452.5 }
+	rotation = 0.0
+}
+113 = {
+	position = { 993.7 3484.2 }
+	rotation = 0.0
+}
+114 = {
+	position = { 1142.9 3458.9 }
+	rotation = 0.0
+}
+115 = {
+	position = { 1065.8 3583.1 }
+	rotation = 0.0
+}
+116 = {
+	position = { 1185.0 3541.5 }
+	rotation = 0.0
+}
+117 = {
+	position = { 406.5 3177.5 }
+	rotation = 0.0
+}
+118 = {
+	position = { 505.9 3321.0 }
+	rotation = 0.0
+}
+119 = {
+	position = { 578.3 3163.6 }
+	rotation = 0.0
+}
+120 = {
+	position = { 486.3 3163.7 }
+	rotation = 0.0
+}
+121 = {
+	position = { 599.4 3340.5 }
+	rotation = 0.0
+}
+122 = {
+	position = { 526.2 3241.9 }
+	rotation = 0.0
+}
+123 = {
+	position = { 638.7 3275.8 }
+	rotation = 0.0
+}
+124 = {
+	position = { 673.1 3173.3 }
+	rotation = 0.0
+}
+125 = {
+	position = { 920.1 2715.0 }
+	rotation = 0.0
+}
+126 = {
+	position = { 988.1 2726.8 }
+	rotation = 0.0
+}
+127 = {
+	position = { 955.6 2637.0 }
+	rotation = 0.0
+}
+128 = {
+	position = { 1005.9 2570.2 }
+	rotation = 0.0
+}
+129 = {
+	position = { 1018.0 2632.8 }
+	rotation = 0.0
+}
+130 = {
+	position = { 1268.0 2642.9 }
+	rotation = 0.0
+}
+131 = {
+	position = { 1371.1 2649.3 }
+	rotation = 0.0
+}
+132 = {
+	position = { 1349.1 2586.0 }
+	rotation = 0.0
+}
+133 = {
+	position = { 1312.0 2648.0 }
+	rotation = 0.0
+}
+134 = {
+	position = { 1396.0 3112.9 }
+	rotation = 0.0
+}
+135 = {
+	position = { 1387.6 3188.5 }
+	rotation = 0.0
+}
+136 = {
+	position = { 1478.5 3181.4 }
+	rotation = 0.0
+}
+137 = {
+	position = { 1406.4 3274.4 }
+	rotation = 0.0
+}
+138 = {
+	position = { 1559.6 3351.5 }
+	rotation = 0.0
+}
+139 = {
+	position = { 1471.9 3352.3 }
+	rotation = 0.0
+}
+140 = {
+	position = { 1501.2 3111.7 }
+	rotation = 0.0
+}
+141 = {
+	position = { 1516.0 3274.6 }
+	rotation = 0.0
+}
+142 = {
+	position = { 1620.7 3273.9 }
+	rotation = 0.0
+}
+143 = {
+	position = { 1576.4 3171.1 }
+	rotation = 0.0
+}
+144 = {
+	position = { 1249.4 3447.5 }
+	rotation = 0.0
+}
+145 = {
+	position = { 1296.6 3396.7 }
+	rotation = 0.0
+}
+146 = {
+	position = { 1271.3 3520.8 }
+	rotation = 0.0
+}
+147 = {
+	position = { 1321.4 3294.7 }
+	rotation = 0.0
+}
+148 = {
+	position = { 1340.3 3209.5 }
+	rotation = 0.0
+}
+149 = {
+	position = { 797.7 3068.9 }
+	rotation = 0.0
+}
+150 = {
+	position = { 1016.8 3246.9 }
+	rotation = 0.0
+}
+151 = {
+	position = { 879.7 3068.2 }
+	rotation = 0.0
+}
+152 = {
+	position = { 1006.4 3149.2 }
+	rotation = 0.0
+}
+153 = {
+	position = { 979.6 3063.0 }
+	rotation = 0.0
+}
+154 = {
+	position = { 1082.5 3088.7 }
+	rotation = 0.0
+}
+155 = {
+	position = { 1065.1 3242.0 }
+	rotation = 0.0
+}
+156 = {
+	position = { 1197.1 3124.4 }
+	rotation = 0.0
+}
+157 = {
+	position = { 1115.4 3149.2 }
+	rotation = 0.0
+}
+158 = {
+	position = { 1225.1 2505.8 }
+	rotation = 0.0
+}
+159 = {
+	position = { 1261.0 2510.6 }
+	rotation = 0.0
+}
+160 = {
+	position = { 1323.5 2419.3 }
+	rotation = 0.0
+}
+161 = {
+	position = { 1387.7 2517.3 }
+	rotation = 0.0
+}
+162 = {
+	position = { 1020.5 2426.9 }
+	rotation = 0.0
+}
+163 = {
+	position = { 1031.0 2509.2 }
+	rotation = 0.0
+}
+164 = {
+	position = { 1100.1 2418.6 }
+	rotation = 0.0
+}
+165 = {
+	position = { 1100.8 2608.9 }
+	rotation = 0.0
+}
+166 = {
+	position = { 1093.9 2307.5 }
+	rotation = 0.0
+}
+167 = {
+	position = { 1145.6 2508.7 }
+	rotation = 0.0
+}
+168 = {
+	position = { 1179.5 2418.8 }
+	rotation = 0.0
+}
+169 = {
+	position = { 838.1 2964.6 }
+	rotation = 0.0
+}
+170 = {
+	position = { 923.7 2969.0 }
+	rotation = 0.0
+}
+171 = {
+	position = { 927.5 2812.7 }
+	rotation = 0.0
+}
+172 = {
+	position = { 952.8 2888.1 }
+	rotation = 0.0
+}
+173 = {
+	position = { 1013.0 2838.3 }
+	rotation = 0.0
+}
+174 = {
+	position = { 1155.7 2644.0 }
+	rotation = 0.0
+}
+175 = {
+	position = { 1238.3 2578.7 }
+	rotation = 0.0
+}
+176 = {
+	position = { 1143.9 2749.0 }
+	rotation = 0.0
+}
+177 = {
+	position = { 1111.1 2722.8 }
+	rotation = 0.0
+}
+178 = {
+	position = { 430.9 2992.4 }
+	rotation = 0.0
+}
+179 = {
+	position = { 388.0 3097.9 }
+	rotation = 0.0
+}
+180 = {
+	position = { 490.1 3037.0 }
+	rotation = 0.0
+}
+181 = {
+	position = { 590.4 3006.8 }
+	rotation = 0.0
+}
+182 = {
+	position = { 590.5 3074.9 }
+	rotation = 0.0
+}
+183 = {
+	position = { 698.4 3085.5 }
+	rotation = 0.0
+}
+184 = {
+	position = { 716.8 3008.9 }
+	rotation = 0.0
+}
+185 = {
+	position = { 474.6 2844.0 }
+	rotation = 0.0
+}
+186 = {
+	position = { 595.7 2794.0 }
+	rotation = 0.0
+}
+187 = {
+	position = { 634.9 2916.8 }
+	rotation = 0.0
+}
+188 = {
+	position = { 506.2 2894.9 }
+	rotation = 0.0
+}
+189 = {
+	position = { 605.1 2730.2 }
+	rotation = 0.0
+}
+190 = {
+	position = { 710.7 2804.6 }
+	rotation = 0.0
+}
+191 = {
+	position = { 756.4 2954.1 }
+	rotation = 0.0
+}
+192 = {
+	position = { 819.9 2800.2 }
+	rotation = 0.0
+}
+193 = {
+	position = { 856.7 2855.9 }
+	rotation = 0.0
+}
+194 = {
+	position = { 828.5 2929.7 }
+	rotation = 0.0
+}
+195 = {
+	position = { 1144.8 3342.3 }
+	rotation = 0.0
+}
+196 = {
+	position = { 1260.9 3308.8 }
+	rotation = 0.0
+}
+197 = {
+	position = { 1205.8 3320.2 }
+	rotation = 0.0
+}
+198 = {
+	position = { 1330.2 3134.3 }
+	rotation = 0.0
+}
+199 = {
+	position = { 1366.4 3412.7 }
+	rotation = 0.0
+}
+200 = {
+	position = { 1369.0 3463.7 }
+	rotation = 0.0
+}
+201 = {
+	position = { 1381.8 3335.4 }
+	rotation = 0.0
+}
+202 = {
+	position = { 1469.2 3420.5 }
+	rotation = 0.0
+}
+203 = {
+	position = { 1196.2 3661.4 }
+	rotation = 0.0
+}
+204 = {
+	position = { 1305.9 3567.6 }
+	rotation = 0.0
+}
+205 = {
+	position = { 1284.9 3666.7 }
+	rotation = 0.0
+}
+206 = {
+	position = { 1382.6 3665.0 }
+	rotation = 0.0
+}
+207 = {
+	position = { 1382.3 3532.0 }
+	rotation = 0.0
+}
+208 = {
+	position = { 1390.8 3584.4 }
+	rotation = 0.0
+}
+209 = {
+	position = { 1455.9 3623.0 }
+	rotation = 0.0
+}
+210 = {
+	position = { 1485.4 3557.4 }
+	rotation = 0.0
+}
+211 = {
+	position = { 1580.9 3571.5 }
+	rotation = 0.0
+}
+212 = {
+	position = { 1550.0 3458.3 }
+	rotation = 0.0
+}
+213 = {
+	position = { 1670.2 3563.6 }
+	rotation = 0.0
+}
+214 = {
+	position = { 1655.7 3492.7 }
+	rotation = 0.0
+}
+215 = {
+	position = { 1730.4 3509.4 }
+	rotation = 0.0
+}
+216 = {
+	position = { 1761.8 3422.4 }
+	rotation = 0.0
+}
+217 = {
+	position = { 1830.4 3532.6 }
+	rotation = 0.0
+}
+218 = {
+	position = { 1855.9 3439.6 }
+	rotation = 0.0
+}
+219 = {
+	position = { 1921.9 3510.9 }
+	rotation = 0.0
+}
+220 = {
+	position = { 1634.9 3395.9 }
+	rotation = 0.0
+}
+221 = {
+	position = { 1696.9 3354.3 }
+	rotation = 0.0
+}
+222 = {
+	position = { 1797.5 3360.5 }
+	rotation = 0.0
+}
+223 = {
+	position = { 1756.6 3347.0 }
+	rotation = 0.0
+}
+224 = {
+	position = { 689.6 1921.7 }
+	rotation = 0.0
+}
+225 = {
+	position = { 732.9 1812.9 }
+	rotation = 0.0
+}
+226 = {
+	position = { 822.0 2015.5 }
+	rotation = 0.0
+}
+227 = {
+	position = { 715.0 1989.0 }
+	rotation = 0.0
+}
+228 = {
+	position = { 768.6 1921.7 }
+	rotation = 0.0
+}
+229 = {
+	position = { 851.5 1899.1 }
+	rotation = 0.0
+}
+230 = {
+	position = { 909.2 1892.3 }
+	rotation = 0.0
+}
+231 = {
+	position = { 615.5 2055.4 }
+	rotation = 0.0
+}
+232 = {
+	position = { 894.5 2257.4 }
+	rotation = 0.0
+}
+233 = {
+	position = { 920.7 2009.7 }
+	rotation = 0.0
+}
+234 = {
+	position = { 792.0 2065.3 }
+	rotation = 0.0
+}
+235 = {
+	position = { 878.3 2087.0 }
+	rotation = 0.0
+}
+236 = {
+	position = { 979.5 2061.4 }
+	rotation = 0.0
+}
+237 = {
+	position = { 886.0 2166.9 }
+	rotation = 0.0
+}
+238 = {
+	position = { 1003.1 2165.0 }
+	rotation = 0.0
+}
+239 = {
+	position = { 942.6 1932.6 }
+	rotation = 0.0
+}
+240 = {
+	position = { 1051.6 2048.5 }
+	rotation = 0.0
+}
+241 = {
+	position = { 1024.1 1961.5 }
+	rotation = 0.0
+}
+242 = {
+	position = { 1145.9 2026.3 }
+	rotation = 0.0
+}
+243 = {
+	position = { 1242.4 2122.7 }
+	rotation = 0.0
+}
+244 = {
+	position = { 1261.2 2009.6 }
+	rotation = 0.0
+}
+245 = {
+	position = { 1310.6 2117.3 }
+	rotation = 0.0
+}
+246 = {
+	position = { 826.5 1613.0 }
+	rotation = 0.0
+}
+247 = {
+	position = { 1119.9 1940.7 }
+	rotation = 0.0
+}
+248 = {
+	position = { 876.0 1532.4 }
+	rotation = 0.0
+}
+249 = {
+	position = { 937.0 1639.6 }
+	rotation = 0.0
+}
+250 = {
+	position = { 1037.0 1518.9 }
+	rotation = 0.0
+}
+251 = {
+	position = { 929.0 1747.1 }
+	rotation = 0.0
+}
+252 = {
+	position = { 1006.5 1843.6 }
+	rotation = 0.0
+}
+253 = {
+	position = { 1011.3 1733.8 }
+	rotation = 0.0
+}
+254 = {
+	position = { 1046.6 1635.1 }
+	rotation = 0.0
+}
+255 = {
+	position = { 1142.4 1620.4 }
+	rotation = 0.0
+}
+256 = {
+	position = { 1134.0 1815.4 }
+	rotation = 0.0
+}
+257 = {
+	position = { 1125.1 1727.1 }
+	rotation = 0.0
+}
+258 = {
+	position = { 1225.4 1722.8 }
+	rotation = 0.0
+}
+259 = {
+	position = { 1920.7 3059.0 }
+	rotation = 0.0
+}
+260 = {
+	position = { 2006.6 3248.1 }
+	rotation = 0.0
+}
+261 = {
+	position = { 2105.3 3166.5 }
+	rotation = 0.0
+}
+262 = {
+	position = { 2098.8 3329.4 }
+	rotation = 0.0
+}
+263 = {
+	position = { 2069.3 3250.3 }
+	rotation = 0.0
+}
+264 = {
+	position = { 2168.1 3431.1 }
+	rotation = 0.0
+}
+265 = {
+	position = { 1724.5 3034.8 }
+	rotation = 0.0
+}
+266 = {
+	position = { 1817.4 3031.8 }
+	rotation = 0.0
+}
+267 = {
+	position = { 1849.2 2926.3 }
+	rotation = 0.0
+}
+268 = {
+	position = { 1774.0 3018.3 }
+	rotation = 0.0
+}
+269 = {
+	position = { 2197.4 1833.1 }
+	rotation = 0.0
+}
+270 = {
+	position = { 2234.4 1764.8 }
+	rotation = 0.0
+}
+271 = {
+	position = { 2263.6 1832.6 }
+	rotation = 0.0
+}
+272 = {
+	position = { 2290.9 1591.2 }
+	rotation = 0.0
+}
+273 = {
+	position = { 2273.4 1665.4 }
+	rotation = 0.0
+}
+274 = {
+	position = { 2289.7 1764.6 }
+	rotation = 0.0
+}
+275 = {
+	position = { 2253.6 1301.0 }
+	rotation = 0.0
+}
+276 = {
+	position = { 2283.2 1502.6 }
+	rotation = 0.0
+}
+277 = {
+	position = { 2388.1 1503.3 }
+	rotation = 0.0
+}
+278 = {
+	position = { 2397.6 1405.7 }
+	rotation = 0.0
+}
+279 = {
+	position = { 2281.3 1407.0 }
+	rotation = 0.0
+}
+280 = {
+	position = { 2548.9 1256.8 }
+	rotation = 0.0
+}
+281 = {
+	position = { 2511.1 1412.0 }
+	rotation = 0.0
+}
+282 = {
+	position = { 2605.7 1410.2 }
+	rotation = 0.0
+}
+283 = {
+	position = { 2616.3 1281.7 }
+	rotation = 0.0
+}
+284 = {
+	position = { 2744.7 1298.5 }
+	rotation = 0.0
+}
+285 = {
+	position = { 2749.3 1395.9 }
+	rotation = 0.0
+}
+286 = {
+	position = { 2578.2 927.4 }
+	rotation = 0.0
+}
+287 = {
+	position = { 2558.2 1002.0 }
+	rotation = 0.0
+}
+288 = {
+	position = { 2573.1 1087.6 }
+	rotation = 0.0
+}
+289 = {
+	position = { 2562.6 1177.6 }
+	rotation = 0.0
+}
+290 = {
+	position = { 2629.4 993.1 }
+	rotation = 0.0
+}
+291 = {
+	position = { 2742.6 1162.6 }
+	rotation = 0.0
+}
+292 = {
+	position = { 2637.0 1186.4 }
+	rotation = 0.0
+}
+293 = {
+	position = { 2676.9 1099.6 }
+	rotation = 0.0
+}
+294 = {
+	position = { 2069.4 1125.9 }
+	rotation = 0.0
+}
+295 = {
+	position = { 2171.6 1193.2 }
+	rotation = 0.0
+}
+296 = {
+	position = { 2330.9 1077.5 }
+	rotation = 0.0
+}
+297 = {
+	position = { 2145.7 1095.0 }
+	rotation = 0.0
+}
+298 = {
+	position = { 2237.3 1116.3 }
+	rotation = 0.0
+}
+299 = {
+	position = { 2362.0 1284.8 }
+	rotation = 0.0
+}
+300 = {
+	position = { 2289.4 1200.6 }
+	rotation = 0.0
+}
+301 = {
+	position = { 2482.4 1169.1 }
+	rotation = 0.0
+}
+302 = {
+	position = { 2387.4 1166.5 }
+	rotation = 0.0
+}
+303 = {
+	position = { 2466.2 1271.3 }
+	rotation = 0.0
+}
+304 = {
+	position = { 1943.2 1239.3 }
+	rotation = 0.0
+}
+305 = {
+	position = { 2027.5 1180.8 }
+	rotation = 0.0
+}
+306 = {
+	position = { 1976.4 1336.0 }
+	rotation = 0.0
+}
+307 = {
+	position = { 2029.0 1628.3 }
+	rotation = 0.0
+}
+308 = {
+	position = { 1998.2 1721.2 }
+	rotation = 0.0
+}
+309 = {
+	position = { 2132.3 1812.0 }
+	rotation = 0.0
+}
+310 = {
+	position = { 2038.2 1811.0 }
+	rotation = 0.0
+}
+311 = {
+	position = { 2064.4 1310.4 }
+	rotation = 0.0
+}
+312 = {
+	position = { 2153.0 1315.8 }
+	rotation = 0.0
+}
+313 = {
+	position = { 2073.1 1709.9 }
+	rotation = 0.0
+}
+314 = {
+	position = { 2155.6 1617.0 }
+	rotation = 0.0
+}
+315 = {
+	position = { 2148.1 1414.0 }
+	rotation = 0.0
+}
+316 = {
+	position = { 2182.7 1497.0 }
+	rotation = 0.0
+}
+317 = {
+	position = { 2169.8 1714.2 }
+	rotation = 0.0
+}
+318 = {
+	position = { 1839.3 1200.7 }
+	rotation = 0.0
+}
+319 = {
+	position = { 2034.9 1419.9 }
+	rotation = 0.0
+}
+320 = {
+	position = { 1872.0 1308.9 }
+	rotation = 0.0
+}
+321 = {
+	position = { 1921.8 1421.3 }
+	rotation = 0.0
+}
+322 = {
+	position = { 1918.2 1592.5 }
+	rotation = 0.0
+}
+323 = {
+	position = { 1936.4 1493.6 }
+	rotation = 0.0
+}
+324 = {
+	position = { 2019.3 1545.3 }
+	rotation = 0.0
+}
+325 = {
+	position = { 2066.2 1493.6 }
+	rotation = 0.0
+}
+326 = {
+	position = { 1679.2 1089.5 }
+	rotation = 0.0
+}
+327 = {
+	position = { 1662.8 1181.2 }
+	rotation = 0.0
+}
+328 = {
+	position = { 1853.3 1167.7 }
+	rotation = 0.0
+}
+329 = {
+	position = { 1753.3 1174.2 }
+	rotation = 0.0
+}
+330 = {
+	position = { 1783.2 1091.3 }
+	rotation = 0.0
+}
+331 = {
+	position = { 2055.4 1007.5 }
+	rotation = 0.0
+}
+332 = {
+	position = { 1903.4 1127.4 }
+	rotation = 0.0
+}
+333 = {
+	position = { 2166.5 1024.2 }
+	rotation = 0.0
+}
+334 = {
+	position = { 1967.2 913.1 }
+	rotation = 0.0
+}
+335 = {
+	position = { 2147.0 937.6 }
+	rotation = 0.0
+}
+336 = {
+	position = { 2002.9 775.9 }
+	rotation = 0.0
+}
+337 = {
+	position = { 2142.8 798.0 }
+	rotation = 0.0
+}
+338 = {
+	position = { 2043.8 886.6 }
+	rotation = 0.0
+}
+339 = {
+	position = { 2151.6 876.2 }
+	rotation = 0.0
+}
+340 = {
+	position = { 2069.1 690.3 }
+	rotation = 0.0
+}
+341 = {
+	position = { 2301.6 726.1 }
+	rotation = 0.0
+}
+342 = {
+	position = { 2241.7 632.3 }
+	rotation = 0.0
+}
+343 = {
+	position = { 2156.3 712.3 }
+	rotation = 0.0
+}
+344 = {
+	position = { 2255.3 856.2 }
+	rotation = 0.0
+}
+345 = {
+	position = { 2318.5 902.8 }
+	rotation = 0.0
+}
+346 = {
+	position = { 2354.6 826.9 }
+	rotation = 0.0
+}
+347 = {
+	position = { 2432.9 826.0 }
+	rotation = 0.0
+}
+348 = {
+	position = { 2265.6 1026.2 }
+	rotation = 0.0
+}
+349 = {
+	position = { 2462.3 1091.0 }
+	rotation = 0.0
+}
+350 = {
+	position = { 2469.6 897.3 }
+	rotation = 0.0
+}
+351 = {
+	position = { 2369.8 1000.9 }
+	rotation = 0.0
+}
+352 = {
+	position = { 2467.6 970.3 }
+	rotation = 0.0
+}
+353 = {
+	position = { 1664.3 1338.8 }
+	rotation = 0.0
+}
+354 = {
+	position = { 1739.1 1341.4 }
+	rotation = 0.0
+}
+355 = {
+	position = { 1833.5 1454.8 }
+	rotation = 0.0
+}
+356 = {
+	position = { 1656.0 1503.1 }
+	rotation = 0.0
+}
+357 = {
+	position = { 1679.0 1422.5 }
+	rotation = 0.0
+}
+358 = {
+	position = { 1763.3 1443.6 }
+	rotation = 0.0
+}
+359 = {
+	position = { 1682.1 1245.8 }
+	rotation = 0.0
+}
+360 = {
+	position = { 1771.7 1232.3 }
+	rotation = 0.0
+}
+361 = {
+	position = { 1817.8 1358.0 }
+	rotation = 0.0
+}
+362 = {
+	position = { 1583.6 1095.8 }
+	rotation = 0.0
+}
+363 = {
+	position = { 1566.2 1172.3 }
+	rotation = 0.0
+}
+364 = {
+	position = { 1595.5 1260.2 }
+	rotation = 0.0
+}
+365 = {
+	position = { 1608.3 1440.7 }
+	rotation = 0.0
+}
+366 = {
+	position = { 1452.2 954.4 }
+	rotation = 0.0
+}
+367 = {
+	position = { 1450.5 1052.7 }
+	rotation = 0.0
+}
+368 = {
+	position = { 1534.3 961.2 }
+	rotation = 0.0
+}
+369 = {
+	position = { 1486.6 918.8 }
+	rotation = 0.0
+}
+370 = {
+	position = { 1620.8 947.5 }
+	rotation = 0.0
+}
+371 = {
+	position = { 1578.5 1027.3 }
+	rotation = 0.0
+}
+372 = {
+	position = { 2597.9 1567.0 }
+	rotation = 0.0
+}
+373 = {
+	position = { 2680.9 1649.1 }
+	rotation = 0.0
+}
+374 = {
+	position = { 2700.8 1522.8 }
+	rotation = 0.0
+}
+375 = {
+	position = { 2611.3 1715.0 }
+	rotation = 0.0
+}
+376 = {
+	position = { 2662.8 1427.8 }
+	rotation = 0.0
+}
+377 = {
+	position = { 2764.1 1496.0 }
+	rotation = 0.0
+}
+378 = {
+	position = { 2632.5 1819.8 }
+	rotation = 0.0
+}
+379 = {
+	position = { 2688.4 1715.9 }
+	rotation = 0.0
+}
+380 = {
+	position = { 2768.5 1711.8 }
+	rotation = 0.0
+}
+381 = {
+	position = { 2755.9 1635.2 }
+	rotation = 0.0
+}
+382 = {
+	position = { 2491.9 1955.1 }
+	rotation = 0.0
+}
+383 = {
+	position = { 2800.0 2091.9 }
+	rotation = 0.0
+}
+384 = {
+	position = { 2654.4 1882.6 }
+	rotation = 0.0
+}
+385 = {
+	position = { 2592.0 1984.0 }
+	rotation = 0.0
+}
+386 = {
+	position = { 2764.1 1797.8 }
+	rotation = 0.0
+}
+387 = {
+	position = { 2784.2 1912.7 }
+	rotation = 0.0
+}
+388 = {
+	position = { 2706.4 1987.1 }
+	rotation = 0.0
+}
+389 = {
+	position = { 2797.6 1986.4 }
+	rotation = 0.0
+}
+390 = {
+	position = { 1781.2 729.1 }
+	rotation = 0.0
+}
+391 = {
+	position = { 1900.1 825.0 }
+	rotation = 0.0
+}
+392 = {
+	position = { 1875.7 456.7 }
+	rotation = 0.0
+}
+393 = {
+	position = { 1858.6 618.0 }
+	rotation = 0.0
+}
+394 = {
+	position = { 1878.1 530.2 }
+	rotation = 0.0
+}
+395 = {
+	position = { 1887.1 709.3 }
+	rotation = 0.0
+}
+396 = {
+	position = { 1978.4 624.2 }
+	rotation = 0.0
+}
+397 = {
+	position = { 1957.3 426.5 }
+	rotation = 0.0
+}
+398 = {
+	position = { 2001.0 522.9 }
+	rotation = 0.0
+}
+399 = {
+	position = { 2088.8 503.1 }
+	rotation = 0.0
+}
+400 = {
+	position = { 2089.9 608.1 }
+	rotation = 0.0
+}
+401 = {
+	position = { 1679.4 1010.4 }
+	rotation = 0.0
+}
+402 = {
+	position = { 1702.6 894.8 }
+	rotation = 0.0
+}
+403 = {
+	position = { 1771.3 1000.1 }
+	rotation = 0.0
+}
+404 = {
+	position = { 1781.6 841.5 }
+	rotation = 0.0
+}
+405 = {
+	position = { 1892.8 913.3 }
+	rotation = 0.0
+}
+406 = {
+	position = { 1791.6 912.7 }
+	rotation = 0.0
+}
+407 = {
+	position = { 1904.5 990.4 }
+	rotation = 0.0
+}
+408 = {
+	position = { 1629.4 432.7 }
+	rotation = 0.0
+}
+409 = {
+	position = { 1617.9 526.3 }
+	rotation = 0.0
+}
+410 = {
+	position = { 1721.1 684.9 }
+	rotation = 0.0
+}
+411 = {
+	position = { 1729.5 427.4 }
+	rotation = 0.0
+}
+412 = {
+	position = { 1701.7 529.3 }
+	rotation = 0.0
+}
+413 = {
+	position = { 1784.4 530.5 }
+	rotation = 0.0
+}
+414 = {
+	position = { 1803.8 454.4 }
+	rotation = 0.0
+}
+415 = {
+	position = { 1425.7 594.8 }
+	rotation = 0.0
+}
+416 = {
+	position = { 1447.0 495.6 }
+	rotation = 0.0
+}
+417 = {
+	position = { 1603.1 698.3 }
+	rotation = 0.0
+}
+418 = {
+	position = { 1455.1 662.2 }
+	rotation = 0.0
+}
+419 = {
+	position = { 1511.1 609.4 }
+	rotation = 0.0
+}
+420 = {
+	position = { 1555.3 488.4 }
+	rotation = 0.0
+}
+421 = {
+	position = { 1596.1 627.6 }
+	rotation = 0.0
+}
+422 = {
+	position = { 1403.0 760.1 }
+	rotation = 0.0
+}
+423 = {
+	position = { 1484.0 752.7 }
+	rotation = 0.0
+}
+424 = {
+	position = { 1552.8 841.7 }
+	rotation = 0.0
+}
+425 = {
+	position = { 1447.6 848.3 }
+	rotation = 0.0
+}
+426 = {
+	position = { 1581.1 771.1 }
+	rotation = 0.0
+}
+427 = {
+	position = { 1641.5 843.7 }
+	rotation = 0.0
+}
+428 = {
+	position = { 1676.7 741.7 }
+	rotation = 0.0
+}
+429 = {
+	position = { 974.3 786.5 }
+	rotation = 0.0
+}
+430 = {
+	position = { 1056.2 871.6 }
+	rotation = 0.0
+}
+431 = {
+	position = { 1037.5 670.6 }
+	rotation = 0.0
+}
+432 = {
+	position = { 1089.5 772.2 }
+	rotation = 0.0
+}
+433 = {
+	position = { 1172.7 655.3 }
+	rotation = 0.0
+}
+434 = {
+	position = { 1326.2 1083.7 }
+	rotation = 0.0
+}
+435 = {
+	position = { 1176.8 882.7 }
+	rotation = 0.0
+}
+436 = {
+	position = { 1316.1 883.1 }
+	rotation = 0.0
+}
+437 = {
+	position = { 1222.5 543.8 }
+	rotation = 0.0
+}
+438 = {
+	position = { 1206.1 772.2 }
+	rotation = 0.0
+}
+439 = {
+	position = { 1310.7 781.8 }
+	rotation = 0.0
+}
+440 = {
+	position = { 1311.6 670.1 }
+	rotation = 0.0
+}
+441 = {
+	position = { 1329.9 972.1 }
+	rotation = 0.0
+}
+442 = {
+	position = { 1227.7 1001.6 }
+	rotation = 0.0
+}
+443 = {
+	position = { 1320.8 562.4 }
+	rotation = 0.0
+}
+444 = {
+	position = { 779.1 1008.9 }
+	rotation = 0.0
+}
+445 = {
+	position = { 848.7 1097.9 }
+	rotation = 0.0
+}
+446 = {
+	position = { 912.4 824.2 }
+	rotation = 0.0
+}
+447 = {
+	position = { 849.9 914.9 }
+	rotation = 0.0
+}
+448 = {
+	position = { 870.0 1010.7 }
+	rotation = 0.0
+}
+449 = {
+	position = { 956.2 1036.5 }
+	rotation = 0.0
+}
+450 = {
+	position = { 958.4 914.9 }
+	rotation = 0.0
+}
+451 = {
+	position = { 994.7 1090.9 }
+	rotation = 0.0
+}
+452 = {
+	position = { 1089.1 1072.9 }
+	rotation = 0.0
+}
+453 = {
+	position = { 1090.1 924.9 }
+	rotation = 0.0
+}
+454 = {
+	position = { 1109.6 980.0 }
+	rotation = 0.0
+}
+455 = {
+	position = { 1179.0 1048.3 }
+	rotation = 0.0
+}
+456 = {
+	position = { 1091.7 1168.8 }
+	rotation = 0.0
+}
+457 = {
+	position = { 1195.5 1156.0 }
+	rotation = 0.0
+}
+458 = {
+	position = { 1745.9 2583.0 }
+	rotation = 0.0
+}
+459 = {
+	position = { 1792.6 2703.3 }
+	rotation = 0.0
+}
+460 = {
+	position = { 1835.1 2841.2 }
+	rotation = 0.0
+}
+461 = {
+	position = { 1766.5 2855.3 }
+	rotation = 0.0
+}
+462 = {
+	position = { 1753.2 2667.8 }
+	rotation = 0.0
+}
+463 = {
+	position = { 1695.3 3117.1 }
+	rotation = 0.0
+}
+464 = {
+	position = { 1785.2 3126.8 }
+	rotation = 0.0
+}
+465 = {
+	position = { 1729.7 3212.5 }
+	rotation = 0.0
+}
+466 = {
+	position = { 1842.3 3043.3 }
+	rotation = 0.0
+}
+467 = {
+	position = { 1849.6 3151.5 }
+	rotation = 0.0
+}
+468 = {
+	position = { 1437.4 3005.9 }
+	rotation = 0.0
+}
+469 = {
+	position = { 1526.9 3041.6 }
+	rotation = 0.0
+}
+470 = {
+	position = { 1565.6 2862.7 }
+	rotation = 0.0
+}
+471 = {
+	position = { 1531.8 2981.6 }
+	rotation = 0.0
+}
+472 = {
+	position = { 1640.6 2963.1 }
+	rotation = 0.0
+}
+473 = {
+	position = { 1623.5 3132.1 }
+	rotation = 0.0
+}
+474 = {
+	position = { 1669.1 2664.7 }
+	rotation = 0.0
+}
+475 = {
+	position = { 1642.1 2775.5 }
+	rotation = 0.0
+}
+476 = {
+	position = { 1684.1 2862.7 }
+	rotation = 0.0
+}
+477 = {
+	position = { 1654.5 3045.7 }
+	rotation = 0.0
+}
+478 = {
+	position = { 1398.2 3073.7 }
+	rotation = 0.0
+}
+479 = {
+	position = { 1492.3 2853.5 }
+	rotation = 0.0
+}
+480 = {
+	position = { 1400.6 3013.8 }
+	rotation = 0.0
+}
+481 = {
+	position = { 1445.6 2935.4 }
+	rotation = 0.0
+}
+482 = {
+	position = { 1501.5 2598.8 }
+	rotation = 0.0
+}
+483 = {
+	position = { 1550.0 2505.8 }
+	rotation = 0.0
+}
+484 = {
+	position = { 1563.8 2702.0 }
+	rotation = 0.0
+}
+485 = {
+	position = { 1578.2 2593.2 }
+	rotation = 0.0
+}
+486 = {
+	position = { 1644.9 2619.7 }
+	rotation = 0.0
+}
+487 = {
+	position = { 1399.4 2815.1 }
+	rotation = 0.0
+}
+488 = {
+	position = { 1385.2 2914.8 }
+	rotation = 0.0
+}
+489 = {
+	position = { 1447.5 2836.5 }
+	rotation = 0.0
+}
+490 = {
+	position = { 1453.1 2691.2 }
+	rotation = 0.0
+}
+491 = {
+	position = { 1952.9 3305.9 }
+	rotation = 0.0
+}
+492 = {
+	position = { 2010.0 3320.5 }
+	rotation = 0.0
+}
+493 = {
+	position = { 1963.9 3430.8 }
+	rotation = 0.0
+}
+494 = {
+	position = { 2038.2 3511.6 }
+	rotation = 0.0
+}
+495 = {
+	position = { 2065.1 3429.6 }
+	rotation = 0.0
+}
+496 = {
+	position = { 1779.7 3250.8 }
+	rotation = 0.0
+}
+497 = {
+	position = { 1864.9 3322.6 }
+	rotation = 0.0
+}
+498 = {
+	position = { 1890.5 3145.1 }
+	rotation = 0.0
+}
+499 = {
+	position = { 1858.8 3237.2 }
+	rotation = 0.0
+}
+500 = {
+	position = { 1928.5 3238.0 }
+	rotation = 0.0
+}
+501 = {
+	position = { 1880.6 3402.3 }
+	rotation = 0.0
+}
+502 = {
+	position = { 2368.5 1867.0 }
+	rotation = 0.0
+}
+503 = {
+	position = { 2539.6 1747.6 }
+	rotation = 0.0
+}
+504 = {
+	position = { 2498.9 1850.7 }
+	rotation = 0.0
+}
+505 = {
+	position = { 2569.9 1834.0 }
+	rotation = 0.0
+}
+506 = {
+	position = { 2511.2 2684.4 }
+	rotation = 0.0
+}
+507 = {
+	position = { 2796.9 2700.1 }
+	rotation = 0.0
+}
+508 = {
+	position = { 2725.2 2694.2 }
+	rotation = 0.0
+}
+509 = {
+	position = { 2637.5 2688.0 }
+	rotation = 0.0
+}
+510 = {
+	position = { 2663.4 2571.7 }
+	rotation = 0.0
+}
+511 = {
+	position = { 2757.0 2621.3 }
+	rotation = 0.0
+}
+512 = {
+	position = { 2682.3 2629.3 }
+	rotation = 0.0
+}
+513 = {
+	position = { 2807.9 2592.2 }
+	rotation = 0.0
+}
+514 = {
+	position = { 1626.8 1906.4 }
+	rotation = 0.0
+}
+515 = {
+	position = { 1701.2 1893.1 }
+	rotation = 0.0
+}
+516 = {
+	position = { 1688.2 2066.7 }
+	rotation = 0.0
+}
+517 = {
+	position = { 1700.1 2000.8 }
+	rotation = 0.0
+}
+518 = {
+	position = { 1218.9 1886.0 }
+	rotation = 0.0
+}
+519 = {
+	position = { 1342.3 1978.1 }
+	rotation = 0.0
+}
+520 = {
+	position = { 1239.4 1813.7 }
+	rotation = 0.0
+}
+521 = {
+	position = { 1353.5 1815.6 }
+	rotation = 0.0
+}
+522 = {
+	position = { 1306.3 1902.9 }
+	rotation = 0.0
+}
+523 = {
+	position = { 1409.1 1893.6 }
+	rotation = 0.0
+}
+524 = {
+	position = { 1416.4 2044.2 }
+	rotation = 0.0
+}
+525 = {
+	position = { 1517.7 2081.9 }
+	rotation = 0.0
+}
+526 = {
+	position = { 1445.1 1969.3 }
+	rotation = 0.0
+}
+527 = {
+	position = { 1710.7 2328.1 }
+	rotation = 0.0
+}
+528 = {
+	position = { 1798.2 2343.0 }
+	rotation = 0.0
+}
+529 = {
+	position = { 1782.4 2501.4 }
+	rotation = 0.0
+}
+530 = {
+	position = { 1796.7 2437.6 }
+	rotation = 0.0
+}
+531 = {
+	position = { 1905.3 2422.7 }
+	rotation = 0.0
+}
+532 = {
+	position = { 345.5 1808.6 }
+	rotation = 0.0
+}
+533 = {
+	position = { 427.5 1799.7 }
+	rotation = 0.0
+}
+534 = {
+	position = { 406.6 1697.0 }
+	rotation = 0.0
+}
+535 = {
+	position = { 519.4 1786.7 }
+	rotation = 0.0
+}
+536 = {
+	position = { 403.3 1880.4 }
+	rotation = 0.0
+}
+537 = {
+	position = { 613.0 1878.7 }
+	rotation = 0.0
+}
+538 = {
+	position = { 509.6 1879.5 }
+	rotation = 0.0
+}
+539 = {
+	position = { 628.0 1785.0 }
+	rotation = 0.0
+}
+540 = {
+	position = { 1401.5 2112.2 }
+	rotation = 0.0
+}
+541 = {
+	position = { 1382.3 2156.2 }
+	rotation = 0.0
+}
+542 = {
+	position = { 1453.2 2158.5 }
+	rotation = 0.0
+}
+543 = {
+	position = { 1527.5 2151.3 }
+	rotation = 0.0
+}
+544 = {
+	position = { 1443.9 2411.4 }
+	rotation = 0.0
+}
+545 = {
+	position = { 1507.4 2328.5 }
+	rotation = 0.0
+}
+546 = {
+	position = { 1469.0 2512.2 }
+	rotation = 0.0
+}
+547 = {
+	position = { 1599.5 2150.3 }
+	rotation = 0.0
+}
+548 = {
+	position = { 1531.6 2437.7 }
+	rotation = 0.0
+}
+549 = {
+	position = { 1579.6 2400.1 }
+	rotation = 0.0
+}
+550 = {
+	position = { 1575.0 2240.8 }
+	rotation = 0.0
+}
+551 = {
+	position = { 1588.0 2327.9 }
+	rotation = 0.0
+}
+552 = {
+	position = { 1665.7 2176.3 }
+	rotation = 0.0
+}
+553 = {
+	position = { 1081.8 2165.0 }
+	rotation = 0.0
+}
+554 = {
+	position = { 1183.8 2250.1 }
+	rotation = 0.0
+}
+555 = {
+	position = { 1187.1 2149.8 }
+	rotation = 0.0
+}
+556 = {
+	position = { 1310.8 2217.8 }
+	rotation = 0.0
+}
+557 = {
+	position = { 1265.3 2324.4 }
+	rotation = 0.0
+}
+558 = {
+	position = { 1377.8 2329.9 }
+	rotation = 0.0
+}
+559 = {
+	position = { 1408.8 2240.1 }
+	rotation = 0.0
+}
+560 = {
+	position = { 1497.6 2226.0 }
+	rotation = 0.0
+}
+561 = {
+	position = { 1438.2 2333.5 }
+	rotation = 0.0
+}
+562 = {
+	position = { 1724.4 2113.4 }
+	rotation = 0.0
+}
+563 = {
+	position = { 1817.9 1976.4 }
+	rotation = 0.0
+}
+564 = {
+	position = { 1811.3 2122.8 }
+	rotation = 0.0
+}
+565 = {
+	position = { 1923.1 1947.2 }
+	rotation = 0.0
+}
+566 = {
+	position = { 1921.4 2101.5 }
+	rotation = 0.0
+}
+567 = {
+	position = { 1946.2 2031.5 }
+	rotation = 0.0
+}
+568 = {
+	position = { 2006.8 1979.7 }
+	rotation = 0.0
+}
+569 = {
+	position = { 1503.3 1888.1 }
+	rotation = 0.0
+}
+570 = {
+	position = { 1435.8 1823.7 }
+	rotation = 0.0
+}
+571 = {
+	position = { 1537.2 1966.9 }
+	rotation = 0.0
+}
+572 = {
+	position = { 1604.9 1980.4 }
+	rotation = 0.0
+}
+573 = {
+	position = { 1596.8 2075.5 }
+	rotation = 0.0
+}
+574 = {
+	position = { 2065.5 1891.6 }
+	rotation = 0.0
+}
+575 = {
+	position = { 2201.4 1944.1 }
+	rotation = 0.0
+}
+576 = {
+	position = { 2094.4 1977.4 }
+	rotation = 0.0
+}
+577 = {
+	position = { 2084.6 2037.7 }
+	rotation = 0.0
+}
+578 = {
+	position = { 2369.0 1952.1 }
+	rotation = 0.0
+}
+579 = {
+	position = { 2303.3 1952.3 }
+	rotation = 0.0
+}
+580 = {
+	position = { 2273.7 2057.3 }
+	rotation = 0.0
+}
+581 = {
+	position = { 1935.9 2185.7 }
+	rotation = 0.0
+}
+582 = {
+	position = { 2042.3 2255.2 }
+	rotation = 0.0
+}
+583 = {
+	position = { 2025.6 2145.7 }
+	rotation = 0.0
+}
+584 = {
+	position = { 2184.2 2049.5 }
+	rotation = 0.0
+}
+585 = {
+	position = { 2126.4 2135.0 }
+	rotation = 0.0
+}
+586 = {
+	position = { 2121.3 2305.7 }
+	rotation = 0.0
+}
+587 = {
+	position = { 2131.4 2227.2 }
+	rotation = 0.0
+}
+588 = {
+	position = { 1900.3 1667.8 }
+	rotation = 0.0
+}
+589 = {
+	position = { 1887.4 1890.6 }
+	rotation = 0.0
+}
+590 = {
+	position = { 1952.1 1890.6 }
+	rotation = 0.0
+}
+591 = {
+	position = { 1930.7 1722.3 }
+	rotation = 0.0
+}
+592 = {
+	position = { 1894.1 1797.6 }
+	rotation = 0.0
+}
+593 = {
+	position = { 1956.2 1655.7 }
+	rotation = 0.0
+}
+594 = {
+	position = { 1962.7 1811.9 }
+	rotation = 0.0
+}
+595 = {
+	position = { 1586.4 1776.1 }
+	rotation = 0.0
+}
+596 = {
+	position = { 1799.4 1885.2 }
+	rotation = 0.0
+}
+597 = {
+	position = { 1711.7 1571.1 }
+	rotation = 0.0
+}
+598 = {
+	position = { 1698.1 1689.4 }
+	rotation = 0.0
+}
+599 = {
+	position = { 1807.3 1704.4 }
+	rotation = 0.0
+}
+600 = {
+	position = { 1696.5 1788.7 }
+	rotation = 0.0
+}
+601 = {
+	position = { 1809.1 1787.4 }
+	rotation = 0.0
+}
+602 = {
+	position = { 1803.3 1527.8 }
+	rotation = 0.0
+}
+603 = {
+	position = { 1814.4 1596.5 }
+	rotation = 0.0
+}
+604 = {
+	position = { 1286.0 1514.8 }
+	rotation = 0.0
+}
+605 = {
+	position = { 1371.2 1555.7 }
+	rotation = 0.0
+}
+606 = {
+	position = { 1381.9 1465.0 }
+	rotation = 0.0
+}
+607 = {
+	position = { 1461.2 1578.9 }
+	rotation = 0.0
+}
+608 = {
+	position = { 1422.3 1664.6 }
+	rotation = 0.0
+}
+609 = {
+	position = { 1271.6 1237.4 }
+	rotation = 0.0
+}
+610 = {
+	position = { 1270.8 1408.9 }
+	rotation = 0.0
+}
+611 = {
+	position = { 1304.5 1198.7 }
+	rotation = 0.0
+}
+612 = {
+	position = { 1377.3 1315.9 }
+	rotation = 0.0
+}
+613 = {
+	position = { 1294.2 1323.5 }
+	rotation = 0.0
+}
+614 = {
+	position = { 1163.4 1558.7 }
+	rotation = 0.0
+}
+615 = {
+	position = { 1254.9 1649.7 }
+	rotation = 0.0
+}
+616 = {
+	position = { 1225.4 1509.6 }
+	rotation = 0.0
+}
+617 = {
+	position = { 1329.0 1624.3 }
+	rotation = 0.0
+}
+618 = {
+	position = { 1343.5 1725.3 }
+	rotation = 0.0
+}
+619 = {
+	position = { 1077.2 1426.0 }
+	rotation = 0.0
+}
+620 = {
+	position = { 1126.1 1369.1 }
+	rotation = 0.0
+}
+621 = {
+	position = { 1115.9 1508.9 }
+	rotation = 0.0
+}
+622 = {
+	position = { 1179.9 1428.0 }
+	rotation = 0.0
+}
+623 = {
+	position = { 1430.1 1358.6 }
+	rotation = 0.0
+}
+624 = {
+	position = { 1498.0 1353.7 }
+	rotation = 0.0
+}
+625 = {
+	position = { 1498.9 1487.7 }
+	rotation = 0.0
+}
+626 = {
+	position = { 1534.4 1439.2 }
+	rotation = 0.0
+}
+627 = {
+	position = { 1356.8 1177.2 }
+	rotation = 0.0
+}
+628 = {
+	position = { 1451.8 1159.5 }
+	rotation = 0.0
+}
+629 = {
+	position = { 1518.9 1248.4 }
+	rotation = 0.0
+}
+630 = {
+	position = { 1429.1 1271.9 }
+	rotation = 0.0
+}
+631 = {
+	position = { 1445.7 1093.6 }
+	rotation = 0.0
+}
+632 = {
+	position = { 1510.4 1107.8 }
+	rotation = 0.0
+}
+633 = {
+	position = { 922.8 1136.3 }
+	rotation = 0.0
+}
+634 = {
+	position = { 1117.3 1254.4 }
+	rotation = 0.0
+}
+635 = {
+	position = { 1011.1 1265.0 }
+	rotation = 0.0
+}
+636 = {
+	position = { 1212.9 1342.3 }
+	rotation = 0.0
+}
+637 = {
+	position = { 860.7 1410.7 }
+	rotation = 0.0
+}
+638 = {
+	position = { 959.0 1427.3 }
+	rotation = 0.0
+}
+639 = {
+	position = { 925.3 1469.1 }
+	rotation = 0.0
+}
+640 = {
+	position = { 989.6 1311.4 }
+	rotation = 0.0
+}
+641 = {
+	position = { 1021.4 1406.3 }
+	rotation = 0.0
+}
+642 = {
+	position = { 664.5 1154.7 }
+	rotation = 0.0
+}
+643 = {
+	position = { 624.4 1274.0 }
+	rotation = 0.0
+}
+644 = {
+	position = { 789.6 1444.6 }
+	rotation = 0.0
+}
+645 = {
+	position = { 742.0 1152.7 }
+	rotation = 0.0
+}
+646 = {
+	position = { 699.3 1258.8 }
+	rotation = 0.0
+}
+647 = {
+	position = { 795.0 1257.2 }
+	rotation = 0.0
+}
+648 = {
+	position = { 831.0 1149.8 }
+	rotation = 0.0
+}
+649 = {
+	position = { 741.8 1362.5 }
+	rotation = 0.0
+}
+650 = {
+	position = { 854.5 1339.8 }
+	rotation = 0.0
+}
+651 = {
+	position = { 916.0 1269.6 }
+	rotation = 0.0
+}
+652 = {
+	position = { 571.2 1396.6 }
+	rotation = 0.0
+}
+653 = {
+	position = { 523.1 1591.7 }
+	rotation = 0.0
+}
+654 = {
+	position = { 759.7 1781.4 }
+	rotation = 0.0
+}
+655 = {
+	position = { 668.9 1690.0 }
+	rotation = 0.0
+}
+656 = {
+	position = { 590.9 1307.0 }
+	rotation = 0.0
+}
+657 = {
+	position = { 564.4 1483.3 }
+	rotation = 0.0
+}
+658 = {
+	position = { 682.2 1403.7 }
+	rotation = 0.0
+}
+659 = {
+	position = { 731.1 1507.8 }
+	rotation = 0.0
+}
+660 = {
+	position = { 686.7 1583.1 }
+	rotation = 0.0
+}
+661 = {
+	position = { 848.6 1780.5 }
+	rotation = 0.0
+}
+662 = {
+	position = { 802.2 1689.0 }
+	rotation = 0.0
+}
+663 = {
+	position = { 2531.6 2042.1 }
+	rotation = 0.0
+}
+664 = {
+	position = { 2700.2 2188.6 }
+	rotation = 0.0
+}
+665 = {
+	position = { 2710.7 2110.5 }
+	rotation = 0.0
+}
+666 = {
+	position = { 2595.1 2104.0 }
+	rotation = 0.0
+}
+667 = {
+	position = { 2301.2 2093.5 }
+	rotation = 0.0
+}
+668 = {
+	position = { 2308.7 2172.9 }
+	rotation = 0.0
+}
+669 = {
+	position = { 2419.8 2084.1 }
+	rotation = 0.0
+}
+670 = {
+	position = { 2409.0 2227.3 }
+	rotation = 0.0
+}
+671 = {
+	position = { 2503.5 2248.5 }
+	rotation = 0.0
+}
+672 = {
+	position = { 2436.5 2166.5 }
+	rotation = 0.0
+}
+673 = {
+	position = { 2500.5 2128.1 }
+	rotation = 0.0
+}
+674 = {
+	position = { 2593.6 2235.4 }
+	rotation = 0.0
+}
+675 = {
+	position = { 2203.5 2186.5 }
+	rotation = 0.0
+}
+676 = {
+	position = { 2299.5 2245.7 }
+	rotation = 0.0
+}
+677 = {
+	position = { 2194.0 2468.0 }
+	rotation = 0.0
+}
+678 = {
+	position = { 2191.8 2335.1 }
+	rotation = 0.0
+}
+679 = {
+	position = { 2263.5 2353.9 }
+	rotation = 0.0
+}
+680 = {
+	position = { 2208.0 2236.4 }
+	rotation = 0.0
+}
+681 = {
+	position = { 2100.3 2500.1 }
+	rotation = 0.0
+}
+682 = {
+	position = { 2108.4 2584.5 }
+	rotation = 0.0
+}
+683 = {
+	position = { 2193.1 2568.2 }
+	rotation = 0.0
+}
+684 = {
+	position = { 2190.2 2676.9 }
+	rotation = 0.0
+}
+685 = {
+	position = { 2272.7 2583.9 }
+	rotation = 0.0
+}
+686 = {
+	position = { 2267.4 2673.1 }
+	rotation = 0.0
+}
+687 = {
+	position = { 1945.5 2845.7 }
+	rotation = 0.0
+}
+688 = {
+	position = { 1919.0 2978.4 }
+	rotation = 0.0
+}
+689 = {
+	position = { 2042.5 2895.1 }
+	rotation = 0.0
+}
+690 = {
+	position = { 2031.0 2756.6 }
+	rotation = 0.0
+}
+691 = {
+	position = { 2124.1 2772.0 }
+	rotation = 0.0
+}
+692 = {
+	position = { 2221.5 2785.1 }
+	rotation = 0.0
+}
+693 = {
+	position = { 2127.7 2689.9 }
+	rotation = 0.0
+}
+694 = {
+	position = { 2043.0 3063.2 }
+	rotation = 0.0
+}
+695 = {
+	position = { 2181.9 2879.1 }
+	rotation = 0.0
+}
+696 = {
+	position = { 2199.1 3205.3 }
+	rotation = 0.0
+}
+697 = {
+	position = { 2013.4 3161.5 }
+	rotation = 0.0
+}
+698 = {
+	position = { 2197.2 3025.3 }
+	rotation = 0.0
+}
+699 = {
+	position = { 2218.2 3327.5 }
+	rotation = 0.0
+}
+700 = {
+	position = { 2261.3 2943.6 }
+	rotation = 0.0
+}
+701 = {
+	position = { 2273.2 3102.2 }
+	rotation = 0.0
+}
+702 = {
+	position = { 2324.5 3012.5 }
+	rotation = 0.0
+}
+703 = {
+	position = { 2320.3 3246.7 }
+	rotation = 0.0
+}
+704 = {
+	position = { 2325.1 2787.6 }
+	rotation = 0.0
+}
+705 = {
+	position = { 2410.2 2899.4 }
+	rotation = 0.0
+}
+706 = {
+	position = { 2416.0 3117.6 }
+	rotation = 0.0
+}
+707 = {
+	position = { 2455.3 2840.7 }
+	rotation = 0.0
+}
+708 = {
+	position = { 2443.9 2999.2 }
+	rotation = 0.0
+}
+709 = {
+	position = { 2406.1 2722.0 }
+	rotation = 0.0
+}
+710 = {
+	position = { 2544.0 2743.9 }
+	rotation = 0.0
+}
+711 = {
+	position = { 2504.1 2819.1 }
+	rotation = 0.0
+}
+712 = {
+	position = { 2563.0 2935.0 }
+	rotation = 0.0
+}
+713 = {
+	position = { 2512.6 3126.4 }
+	rotation = 0.0
+}
+714 = {
+	position = { 2646.5 2793.8 }
+	rotation = 0.0
+}
+715 = {
+	position = { 2678.1 2944.2 }
+	rotation = 0.0
+}
+716 = {
+	position = { 2592.6 2847.0 }
+	rotation = 0.0
+}
+717 = {
+	position = { 2583.7 3045.4 }
+	rotation = 0.0
+}
+718 = {
+	position = { 2724.0 2786.1 }
+	rotation = 0.0
+}
+719 = {
+	position = { 2793.5 2797.4 }
+	rotation = 0.0
+}
+720 = {
+	position = { 2343.2 2584.0 }
+	rotation = 0.0
+}
+721 = {
+	position = { 2360.2 2308.1 }
+	rotation = 0.0
+}
+722 = {
+	position = { 2428.9 2606.4 }
+	rotation = 0.0
+}
+723 = {
+	position = { 2345.9 2413.8 }
+	rotation = 0.0
+}
+724 = {
+	position = { 2349.7 2481.8 }
+	rotation = 0.0
+}
+725 = {
+	position = { 2446.2 2400.6 }
+	rotation = 0.0
+}
+726 = {
+	position = { 2537.6 2583.6 }
+	rotation = 0.0
+}
+727 = {
+	position = { 2450.1 2319.1 }
+	rotation = 0.0
+}
+728 = {
+	position = { 2453.3 2503.1 }
+	rotation = 0.0
+}
+729 = {
+	position = { 2555.9 2403.1 }
+	rotation = 0.0
+}
+730 = {
+	position = { 2560.3 2328.3 }
+	rotation = 0.0
+}
+731 = {
+	position = { 2556.9 2503.1 }
+	rotation = 0.0
+}
+732 = {
+	position = { 2648.2 2273.2 }
+	rotation = 0.0
+}
+733 = {
+	position = { 2664.5 2356.1 }
+	rotation = 0.0
+}
+734 = {
+	position = { 2741.1 2294.9 }
+	rotation = 0.0
+}
+735 = {
+	position = { 2732.2 2471.8 }
+	rotation = 0.0
+}
+736 = {
+	position = { 2650.6 2460.2 }
+	rotation = 0.0
+}
+737 = {
+	position = { 2809.5 2466.8 }
+	rotation = 0.0
+}
+738 = {
+	position = { 2801.9 2204.3 }
+	rotation = 0.0
+}
+739 = {
+	position = { 2792.4 2354.9 }
+	rotation = 0.0
+}
+740 = {
+	position = { 2824.3 2166.7 }
+	rotation = 0.0
+}
+741 = {
+	position = { 1709.9 2199.0 }
+	rotation = 0.0
+}
+742 = {
+	position = { 1842.2 2256.7 }
+	rotation = 0.0
+}
+743 = {
+	position = { 1781.7 2231.6 }
+	rotation = 0.0
+}
+744 = {
+	position = { 1932.3 2283.1 }
+	rotation = 0.0
+}
+745 = {
+	position = { 1912.0 2382.4 }
+	rotation = 0.0
+}
+746 = {
+	position = { 1990.7 2378.2 }
+	rotation = 0.0
+}
+747 = {
+	position = { 2071.3 2354.4 }
+	rotation = 0.0
+}
+748 = {
+	position = { 71.3 75.5 }
+	rotation = 0.0
+}
+749 = {
+	position = { 258.3 70.2 }
+	rotation = 0.0
+}
+750 = {
+	position = { 120.2 2036.5 }
+	rotation = 0.0
+}
+751 = {
+	position = { 111.6 2226.3 }
+	rotation = 0.0
+}
+752 = {
+	position = { 65.8 1872.3 }
+	rotation = 0.0
+}
+753 = {
+	position = { 84.6 1505.0 }
+	rotation = 0.0
+}
+754 = {
+	position = { 69.4 3288.6 }
+	rotation = 0.0
+}
+755 = {
+	position = { 85.2 3457.6 }
+	rotation = 0.0
+}
+756 = {
+	position = { 63.1 2628.8 }
+	rotation = 0.0
+}
+757 = {
+	position = { 113.9 2420.3 }
+	rotation = 0.0
+}
+758 = {
+	position = { 80.4 2919.4 }
+	rotation = 0.0
+}
+759 = {
+	position = { 97.3 984.2 }
+	rotation = 0.0
+}
+760 = {
+	position = { 39.3 3723.8 }
+	rotation = 0.0
+}
+761 = {
+	position = { 141.3 3767.5 }
+	rotation = 0.0
+}
+762 = {
+	position = { 84.7 459.0 }
+	rotation = 0.0
+}
+763 = {
+	position = { 104.9 252.3 }
+	rotation = 0.0
+}
+764 = {
+	position = { 79.8 1143.3 }
+	rotation = 0.0
+}
+765 = {
+	position = { 87.9 819.6 }
+	rotation = 0.0
+}
+766 = {
+	position = { 284.5 630.2 }
+	rotation = 0.0
+}
+767 = {
+	position = { 85.4 620.4 }
+	rotation = 0.0
+}
+768 = {
+	position = { 174.0 2639.1 }
+	rotation = 0.0
+}
+769 = {
+	position = { 95.2 1334.7 }
+	rotation = 0.0
+}
+770 = {
+	position = { 106.5 3114.7 }
+	rotation = 0.0
+}
+771 = {
+	position = { 257.6 1152.4 }
+	rotation = 0.0
+}
+772 = {
+	position = { 118.5 1695.6 }
+	rotation = 0.0
+}
+773 = {
+	position = { 1713.2 4019.2 }
+	rotation = 0.0
+}
+774 = {
+	position = { 92.2 4003.7 }
+	rotation = 0.0
+}
+775 = {
+	position = { 262.9 2746.7 }
+	rotation = 0.0
+}
+776 = {
+	position = { 261.9 459.0 }
+	rotation = 0.0
+}
+777 = {
+	position = { 277.5 796.3 }
+	rotation = 0.0
+}
+778 = {
+	position = { 266.4 2931.7 }
+	rotation = 0.0
+}
+779 = {
+	position = { 209.9 1872.3 }
+	rotation = 0.0
+}
+780 = {
+	position = { 279.9 3277.9 }
+	rotation = 0.0
+}
+781 = {
+	position = { 258.0 3605.0 }
+	rotation = 0.0
+}
+782 = {
+	position = { 263.9 1494.4 }
+	rotation = 0.0
+}
+783 = {
+	position = { 288.5 1321.9 }
+	rotation = 0.0
+}
+784 = {
+	position = { 293.4 3439.1 }
+	rotation = 0.0
+}
+785 = {
+	position = { 281.1 3097.9 }
+	rotation = 0.0
+}
+786 = {
+	position = { 326.4 3817.1 }
+	rotation = 0.0
+}
+787 = {
+	position = { 281.8 4020.8 }
+	rotation = 0.0
+}
+788 = {
+	position = { 655.8 64.7 }
+	rotation = 0.0
+}
+789 = {
+	position = { 323.9 261.8 }
+	rotation = 0.0
+}
+790 = {
+	position = { 457.7 64.7 }
+	rotation = 0.0
+}
+791 = {
+	position = { 302.6 1676.8 }
+	rotation = 0.0
+}
+792 = {
+	position = { 418.7 1509.5 }
+	rotation = 0.0
+}
+793 = {
+	position = { 316.0 969.5 }
+	rotation = 0.0
+}
+794 = {
+	position = { 484.8 1080.3 }
+	rotation = 0.0
+}
+795 = {
+	position = { 464.8 423.4 }
+	rotation = 0.0
+}
+796 = {
+	position = { 485.6 4020.8 }
+	rotation = 0.0
+}
+797 = {
+	position = { 469.5 786.1 }
+	rotation = 0.0
+}
+798 = {
+	position = { 516.4 3414.6 }
+	rotation = 0.0
+}
+799 = {
+	position = { 459.8 3633.4 }
+	rotation = 0.0
+}
+800 = {
+	position = { 2406.4 3286.5 }
+	rotation = 0.0
+}
+801 = {
+	position = { 466.4 1324.6 }
+	rotation = 0.0
+}
+802 = {
+	position = { 508.7 617.1 }
+	rotation = 0.0
+}
+803 = {
+	position = { 526.0 264.6 }
+	rotation = 0.0
+}
+804 = {
+	position = { 701.9 3510.8 }
+	rotation = 0.0
+}
+805 = {
+	position = { 1498.3 4005.3 }
+	rotation = 0.0
+}
+806 = {
+	position = { 512.5 3837.9 }
+	rotation = 0.0
+}
+807 = {
+	position = { 536.3 969.5 }
+	rotation = 0.0
+}
+808 = {
+	position = { 692.5 985.3 }
+	rotation = 0.0
+}
+809 = {
+	position = { 649.1 3657.6 }
+	rotation = 0.0
+}
+810 = {
+	position = { 1017.5 3658.5 }
+	rotation = 0.0
+}
+811 = {
+	position = { 665.4 425.0 }
+	rotation = 0.0
+}
+812 = {
+	position = { 651.4 786.1 }
+	rotation = 0.0
+}
+813 = {
+	position = { 875.5 65.1 }
+	rotation = 0.0
+}
+814 = {
+	position = { 710.3 3837.9 }
+	rotation = 0.0
+}
+815 = {
+	position = { 701.2 4012.3 }
+	rotation = 0.0
+}
+816 = {
+	position = { 706.9 620.6 }
+	rotation = 0.0
+}
+817 = {
+	position = { 726.0 254.7 }
+	rotation = 0.0
+}
+818 = {
+	position = { 892.2 4008.9 }
+	rotation = 0.0
+}
+819 = {
+	position = { 800.3 829.5 }
+	rotation = 0.0
+}
+820 = {
+	position = { 850.5 436.9 }
+	rotation = 0.0
+}
+821 = {
+	position = { 1664.0 3687.0 }
+	rotation = 0.0
+}
+822 = {
+	position = { 840.2 3647.5 }
+	rotation = 0.0
+}
+823 = {
+	position = { 917.6 3811.1 }
+	rotation = 0.0
+}
+824 = {
+	position = { 937.2 240.1 }
+	rotation = 0.0
+}
+825 = {
+	position = { 901.4 621.4 }
+	rotation = 0.0
+}
+826 = {
+	position = { 1317.0 3799.9 }
+	rotation = 0.0
+}
+827 = {
+	position = { 1762.5 315.2 }
+	rotation = 0.0
+}
+828 = {
+	position = { 2136.3 471.9 }
+	rotation = 0.0
+}
+829 = {
+	position = { 1046.7 436.9 }
+	rotation = 0.0
+}
+830 = {
+	position = { 1085.1 54.6 }
+	rotation = 0.0
+}
+831 = {
+	position = { 1261.8 4032.1 }
+	rotation = 0.0
+}
+832 = {
+	position = { 1040.8 3929.6 }
+	rotation = 0.0
+}
+833 = {
+	position = { 1273.4 452.3 }
+	rotation = 0.0
+}
+834 = {
+	position = { 1127.7 3811.1 }
+	rotation = 0.0
+}
+835 = {
+	position = { 1134.4 242.7 }
+	rotation = 0.0
+}
+836 = {
+	position = { 1512.0 83.5 }
+	rotation = 0.0
+}
+837 = {
+	position = { 1304.7 54.6 }
+	rotation = 0.0
+}
+838 = {
+	position = { 1324.5 250.1 }
+	rotation = 0.0
+}
+839 = {
+	position = { 1542.8 325.2 }
+	rotation = 0.0
+}
+840 = {
+	position = { 1520.8 3833.2 }
+	rotation = 0.0
+}
+841 = {
+	position = { 1754.4 3812.8 }
+	rotation = 0.0
+}
+842 = {
+	position = { 1671.3 137.7 }
+	rotation = 0.0
+}
+843 = {
+	position = { 2135.2 62.5 }
+	rotation = 0.0
+}
+844 = {
+	position = { 1912.0 54.3 }
+	rotation = 0.0
+}
+845 = {
+	position = { 1910.2 4019.2 }
+	rotation = 0.0
+}
+846 = {
+	position = { 1876.0 3691.3 }
+	rotation = 0.0
+}
+847 = {
+	position = { 1973.8 248.7 }
+	rotation = 0.0
+}
+848 = {
+	position = { 2103.8 4009.3 }
+	rotation = 0.0
+}
+849 = {
+	position = { 2531.8 775.3 }
+	rotation = 0.0
+}
+850 = {
+	position = { 1982.0 3812.8 }
+	rotation = 0.0
+}
+851 = {
+	position = { 2153.2 231.5 }
+	rotation = 0.0
+}
+852 = {
+	position = { 2323.5 3429.3 }
+	rotation = 0.0
+}
+853 = {
+	position = { 2108.2 3611.0 }
+	rotation = 0.0
+}
+854 = {
+	position = { 2344.2 62.5 }
+	rotation = 0.0
+}
+855 = {
+	position = { 2171.5 3816.0 }
+	rotation = 0.0
+}
+856 = {
+	position = { 2306.4 4006.3 }
+	rotation = 0.0
+}
+857 = {
+	position = { 2336.9 242.2 }
+	rotation = 0.0
+}
+858 = {
+	position = { 2306.2 3632.0 }
+	rotation = 0.0
+}
+859 = {
+	position = { 2531.3 4008.0 }
+	rotation = 0.0
+}
+860 = {
+	position = { 2948.0 1824.7 }
+	rotation = 0.0
+}
+861 = {
+	position = { 2325.1 411.3 }
+	rotation = 0.0
+}
+862 = {
+	position = { 2342.6 3814.7 }
+	rotation = 0.0
+}
+863 = {
+	position = { 2376.9 615.1 }
+	rotation = 0.0
+}
+864 = {
+	position = { 2540.9 262.7 }
+	rotation = 0.0
+}
+865 = {
+	position = { 2522.1 3632.0 }
+	rotation = 0.0
+}
+866 = {
+	position = { 2948.7 52.2 }
+	rotation = 0.0
+}
+867 = {
+	position = { 2540.9 411.3 }
+	rotation = 0.0
+}
+868 = {
+	position = { 2535.7 3285.8 }
+	rotation = 0.0
+}
+869 = {
+	position = { 2912.3 2284.6 }
+	rotation = 0.0
+}
+870 = {
+	position = { 2542.0 80.7 }
+	rotation = 0.0
+}
+871 = {
+	position = { 2648.2 3069.1 }
+	rotation = 0.0
+}
+872 = {
+	position = { 2544.2 3824.5 }
+	rotation = 0.0
+}
+873 = {
+	position = { 2548.9 3467.9 }
+	rotation = 0.0
+}
+874 = {
+	position = { 2735.1 414.8 }
+	rotation = 0.0
+}
+875 = {
+	position = { 2581.8 606.1 }
+	rotation = 0.0
+}
+876 = {
+	position = { 2742.9 4009.1 }
+	rotation = 0.0
+}
+877 = {
+	position = { 2746.9 3624.8 }
+	rotation = 0.0
+}
+878 = {
+	position = { 2734.5 68.4 }
+	rotation = 0.0
+}
+879 = {
+	position = { 2720.6 3273.2 }
+	rotation = 0.0
+}
+880 = {
+	position = { 2709.9 785.6 }
+	rotation = 0.0
+}
+881 = {
+	position = { 2750.9 960.2 }
+	rotation = 0.0
+}
+882 = {
+	position = { 2770.4 3467.9 }
+	rotation = 0.0
+}
+883 = {
+	position = { 2785.9 587.4 }
+	rotation = 0.0
+}
+884 = {
+	position = { 2902.3 1457.3 }
+	rotation = 0.0
+}
+885 = {
+	position = { 2769.6 248.2 }
+	rotation = 0.0
+}
+886 = {
+	position = { 2939.9 771.4 }
+	rotation = 0.0
+}
+887 = {
+	position = { 2803.8 3100.6 }
+	rotation = 0.0
+}
+888 = {
+	position = { 2766.9 3814.4 }
+	rotation = 0.0
+}
+889 = {
+	position = { 2951.9 4024.8 }
+	rotation = 0.0
+}
+890 = {
+	position = { 2962.8 3626.1 }
+	rotation = 0.0
+}
+891 = {
+	position = { 2953.3 417.7 }
+	rotation = 0.0
+}
+892 = {
+	position = { 2942.2 3269.9 }
+	rotation = 0.0
+}
+893 = {
+	position = { 2936.6 1155.5 }
+	rotation = 0.0
+}
+894 = {
+	position = { 2945.9 1316.0 }
+	rotation = 0.0
+}
+895 = {
+	position = { 2953.0 2587.0 }
+	rotation = 0.0
+}
+896 = {
+	position = { 2930.2 1659.3 }
+	rotation = 0.0
+}
+897 = {
+	position = { 2965.6 942.9 }
+	rotation = 0.0
+}
+898 = {
+	position = { 2954.7 2042.3 }
+	rotation = 0.0
+}
+899 = {
+	position = { 2933.8 2954.9 }
+	rotation = 0.0
+}
+900 = {
+	position = { 2945.9 2797.4 }
+	rotation = 0.0
+}
+901 = {
+	position = { 2975.0 3448.7 }
+	rotation = 0.0
+}
+902 = {
+	position = { 2981.9 587.4 }
+	rotation = 0.0
+}
+903 = {
+	position = { 2958.8 2403.8 }
+	rotation = 0.0
+}
+904 = {
+	position = { 2981.3 234.6 }
+	rotation = 0.0
+}
+905 = {
+	position = { 2989.4 3100.6 }
+	rotation = 0.0
+}
+906 = {
+	position = { 2974.2 3814.4 }
+	rotation = 0.0
+}

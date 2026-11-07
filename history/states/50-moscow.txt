@@ -1,0 +1,13 @@
+state = {
+ id = 50
+ name = "STATE_50"
+ manpower = 120000
+ state_category = large_city
+ provinces = { 348 349 350 351 352 }
+ history = {
+  owner = VOR
+  add_core_of = VOR
+  victory_points = { 348 5 }
+  buildings = { infrastructure = 1 }
+ }
+}

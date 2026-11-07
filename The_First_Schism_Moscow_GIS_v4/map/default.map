@@ -1,0 +1,15 @@
+max_provinces = 907
+definitions = "definition.csv"
+provinces = "provinces.bmp"
+positions = "positions.txt"
+rivers = "rivers.bmp"
+terrain = "terrain.bmp"
+heightmap = "heightmap.bmp"
+tree_definition = "trees.bmp"
+continent = "continents.txt"
+adjacencies = "adjacencies.csv"
+sea_starts = { }
+lakes = { }
+only_used_for_random = { }
+impassable = { }
+tree = { 5 6 }

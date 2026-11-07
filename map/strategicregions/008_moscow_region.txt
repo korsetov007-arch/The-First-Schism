@@ -1,0 +1,5 @@
+strategic_region = {
+	id = 8
+	name = "STRATEGICREGION_MOSCOW_008"
+	provinces = { 66 67 68 69 70 71 72 73 }
+}
