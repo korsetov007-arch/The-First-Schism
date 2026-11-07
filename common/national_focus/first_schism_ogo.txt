@@ -121,6 +121,7 @@ focus_tree = {
 
 	focus = {
 		id = OGO_atamanov_transfer
+		available = { has_global_flag = first_schism_crisis_complete }
 		icon = GFX_goal_generic_national_unity
 		prerequisite = { focus = OGO_division_of_power }
 		cost = 10

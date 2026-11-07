@@ -1,0 +1,13 @@
+focus_tree = {
+ id = first_schism_DWA_focus
+ country = { factor = 0 modifier = { add = 10 tag = DWA } }
+ default = no
+ focus = { id = DWA_first_coup icon = GFX_goal_generic_civil_war available = { has_global_flag = first_schism_dark_watch_formed } cost = 5 x = 6 y = 0 completion_reward = { add_ideas = DWA_dark_watch_spirit add_political_power = 100 add_war_support = 0.10 } }
+ focus = { id = DWA_watch_discipline icon = GFX_goal_generic_army_reform prerequisite = { focus = DWA_first_coup } cost = 10 x = 4 y = 1 completion_reward = { army_experience = 20 add_stability = 0.05 } }
+ focus = { id = DWA_personal_loyalty icon = GFX_goal_generic_political_pressure prerequisite = { focus = DWA_first_coup } cost = 10 x = 8 y = 1 completion_reward = { add_ideas = DWA_shadow_network_spirit add_political_power = 75 } }
+ focus = { id = DWA_reach_into_ogorod icon = GFX_goal_generic_territorial_expansion prerequisite = { focus = DWA_watch_discipline } cost = 10 x = 4 y = 2 completion_reward = { if = { limit = { NOT = { has_war_with = OGO } } create_wargoal = { type = annex_everything target = OGO } } add_war_support = 0.05 } }
+ focus = { id = DWA_open_conflict icon = GFX_goal_generic_major_war prerequisite = { focus = DWA_watch_discipline } cost = 10 x = 6 y = 2 completion_reward = { army_experience = 15 add_war_support = 0.10 add_political_power = 50 } }
+ focus = { id = DWA_spectacle icon = GFX_goal_generic_war_propaganda prerequisite = { focus = DWA_personal_loyalty } cost = 10 x = 8 y = 2 completion_reward = { add_ideas = DWA_spectacle_spirit add_war_support = 0.10 add_stability = -0.05 } }
+ focus = { id = DWA_unseen_administration icon = GFX_goal_generic_secret_weapon prerequisite = { focus = DWA_personal_loyalty } cost = 10 x = 8 y = 3 completion_reward = { add_political_power = 100 add_stability = 0.05 add_ideas = DWA_shadow_network_spirit } }
+ focus = { id = DWA_shadow_rule icon = GFX_goal_generic_political_pressure prerequisite = { focus = DWA_open_conflict } prerequisite = { focus = DWA_spectacle } prerequisite = { focus = DWA_unseen_administration } cost = 10 x = 6 y = 4 completion_reward = { add_stability = 0.05 army_experience = 10 } }
+}

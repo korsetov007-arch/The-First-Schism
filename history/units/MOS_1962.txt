@@ -1,0 +1,6 @@
+units = {
+ division = { name = "1-й батальон муниципальной охраны" location = 545 division_template = "Municipal Guard Battalion" start_experience_factor = 0.10 }
+ division = { name = "2-й батальон муниципальной охраны" location = 517 division_template = "Municipal Guard Battalion" start_experience_factor = 0.10 }
+ division = { name = "3-й батальон муниципальной охраны" location = 530 division_template = "Municipal Guard Battalion" start_experience_factor = 0.10 }
+ division = { name = "4-й батальон муниципальной охраны" location = 554 division_template = "Municipal Guard Battalion" start_experience_factor = 0.10 }
+}

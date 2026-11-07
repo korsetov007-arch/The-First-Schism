@@ -1,6 +1,6 @@
 # The First Schism — HOI4 mod
 
-The project now uses a Moscow GIS-based map with 906 provinces, 108 states (107 city districts and one outer-belt state), and 108 strategic regions. The map assets and state templates are in `The_First_Schism_Moscow_GIS_v4`; district ownership is temporarily assigned to VOR.
+The project now uses a Moscow GIS-based map with 906 provinces, 108 states (107 city districts and one outer-belt state), and 108 strategic regions. The map assets and state templates are in `The_First_Schism_Moscow_GIS_v4`; MOS starts with 82 states; VOR holds 14 western districts and OGO 12 northern districts. The crisis chain lets OGO declare war or concede three districts; the Dark Watch forms after a coup if concessions continue.
 
 ## Edit the map
 
