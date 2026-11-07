@@ -1,4 +1,4 @@
-capital = 19
+capital = 136
 set_politics = { ruling_party = neutrality elections_allowed = no }
 set_popularities = { neutrality = 78 democratic = 2 communism = 5 fascism = 15 }
 set_technology = { infantry_weapons = 1 infantry_weapons1 = 1 tech_support = 1 tech_recon = 1 tech_engineers = 1 gw_artillery = 1 }
