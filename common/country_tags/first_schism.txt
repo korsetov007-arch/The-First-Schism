@@ -1,0 +1,2 @@
+VOR = "countries/VOR.txt"
+OGO = "countries/OGO.txt"

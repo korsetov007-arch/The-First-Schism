@@ -1,0 +1,20 @@
+state = {
+	id = 10
+	name = "STATE_10"
+	manpower = 72000
+	state_category = large_town
+	provinces = { 86 87 89 103 104 105 106 107 121 122 123 124 139 141 }
+	resources = {
+		oil = 5
+	}
+	history = {
+		owner = OGO
+		add_core_of = OGO
+		victory_points = { 105 5 }
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			arms_factory = 1
+		}
+	}
+}

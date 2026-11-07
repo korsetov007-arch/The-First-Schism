@@ -1,0 +1,32 @@
+units = {
+	division = {
+		name = "1. Вихревой батальон"
+		location = 97
+		division_template = "Vortex Battalion"
+		start_experience_factor = 0.15
+	}
+	division = {
+		name = "2. Вихревой батальон"
+		location = 97
+		division_template = "Vortex Battalion"
+		start_experience_factor = 0.15
+	}
+	division = {
+		name = "3. Вихревой батальон"
+		location = 97
+		division_template = "Vortex Battalion"
+		start_experience_factor = 0.15
+	}
+	division = {
+		name = "4. Вихревой батальон"
+		location = 97
+		division_template = "Vortex Battalion"
+		start_experience_factor = 0.15
+	}
+	division = {
+		name = "5. Вихревой батальон"
+		location = 97
+		division_template = "Vortex Battalion"
+		start_experience_factor = 0.15
+	}
+}

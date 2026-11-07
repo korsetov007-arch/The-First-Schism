@@ -1,0 +1,32 @@
+add_namespace = first_schism
+
+country_event = {
+	id = first_schism.1
+	title = first_schism.1.t
+	desc = first_schism.1.desc
+	fire_only_once = yes
+	is_triggered_only = yes
+	trigger = { tag = OGO }
+
+	option = {
+		name = first_schism.1.a
+		ai_chance = { factor = 65 }
+		set_country_flag = OGO_hardline
+		add_political_power = -50
+		add_stability = -0.10
+		add_war_support = 0.15
+		declare_war_on = {
+			target = VOR
+			type = annex_everything
+		}
+	}
+
+	option = {
+		name = first_schism.1.b
+		ai_chance = { factor = 35 }
+		set_country_flag = OGO_compromise
+		add_political_power = 75
+		add_stability = 0.05
+		add_war_support = -0.05
+	}
+}

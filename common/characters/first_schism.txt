@@ -1,0 +1,146 @@
+characters = {
+	VOR_spartak = {
+		name = VOR_spartak
+		portraits = {
+			civilian = {
+				large = GFX_portrait_generic_europe_1
+				small = GFX_portrait_generic_europe_1_small
+			}
+			army = {
+				large = GFX_portrait_generic_europe_2
+				small = GFX_portrait_generic_europe_2_small
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			traits = { }
+			desc = VOR_spartak_desc
+		}
+	}
+	VOR_shlang = {
+		name = VOR_shlang
+		portraits = {
+			civilian = {
+				large = GFX_portrait_generic_europe_3
+				small = GFX_portrait_generic_europe_3_small
+			}
+			army = {
+				large = GFX_portrait_generic_europe_4
+				small = GFX_portrait_generic_europe_4_small
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			traits = { }
+			desc = VOR_shlang_desc
+		}
+	}
+	OGO_pidofil = {
+		name = OGO_pidofil
+		portraits = {
+			civilian = {
+				large = GFX_portrait_generic_europe_5
+				small = GFX_portrait_generic_europe_5_small
+			}
+			army = {
+				large = GFX_portrait_generic_europe_6
+				small = GFX_portrait_generic_europe_6_small
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			traits = { }
+			desc = OGO_pidofil_desc
+		}
+	}
+	OGO_atamanov = {
+		name = OGO_atamanov
+		portraits = {
+			civilian = {
+				large = GFX_portrait_generic_europe_2
+				small = GFX_portrait_generic_europe_2_small
+			}
+			army = {
+				large = GFX_portrait_generic_europe_1
+				small = GFX_portrait_generic_europe_1_small
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			traits = { }
+			desc = OGO_atamanov_desc
+		}
+	}
+	OGO_ilyich = {
+		name = OGO_ilyich
+		portraits = {
+			civilian = {
+				large = GFX_portrait_generic_europe_4
+				small = GFX_portrait_generic_europe_4_small
+			}
+			army = {
+				large = GFX_portrait_generic_europe_3
+				small = GFX_portrait_generic_europe_3_small
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			traits = { }
+			desc = OGO_ilyich_desc
+		}
+	}
+	OGO_dimbaz = {
+		name = OGO_dimbaz
+		portraits = {
+			civilian = {
+				large = GFX_portrait_generic_europe_6
+				small = GFX_portrait_generic_europe_6_small
+			}
+			army = {
+				large = GFX_portrait_generic_europe_5
+				small = GFX_portrait_generic_europe_5_small
+			}
+		}
+		country_leader = {
+			ideology = stalinism
+			traits = { }
+			desc = OGO_dimbaz_desc
+		}
+	}
+	OGO_bair = {
+		name = OGO_bair
+		portraits = {
+			civilian = {
+				large = GFX_portrait_generic_europe_1
+				small = GFX_portrait_generic_europe_1_small
+			}
+			army = {
+				large = GFX_portrait_generic_europe_6
+				small = GFX_portrait_generic_europe_6_small
+			}
+		}
+		country_leader = {
+			ideology = leninism
+			traits = { }
+			desc = OGO_bair_desc
+		}
+	}
+	OGO_perchik = {
+		name = OGO_perchik
+		portraits = {
+			civilian = {
+				large = GFX_portrait_generic_europe_3
+				small = GFX_portrait_generic_europe_3_small
+			}
+			army = {
+				large = GFX_portrait_generic_europe_4
+				small = GFX_portrait_generic_europe_4_small
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			traits = { }
+			desc = OGO_perchik_desc
+		}
+	}
+}

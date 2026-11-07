@@ -1,0 +1,9 @@
+on_actions = {
+	on_startup = {
+		effect = {
+			OGO = {
+				country_event = { id = first_schism.1 days = 1 }
+			}
+		}
+	}
+}

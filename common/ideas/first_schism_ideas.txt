@@ -1,0 +1,255 @@
+ideas = {
+	country = {
+		VOR_vortex_group_spirit = {
+			picture = generic_army_reform
+			allowed = { always = yes }
+			modifier = {
+				political_power_gain = 0.10
+				army_experience_gain_factor = 0.05
+			}
+		}
+		VOR_reformed_command_spirit = {
+			picture = generic_army_reform
+			allowed = { always = yes }
+			modifier = {
+				army_org_factor = 0.10
+				training_time_factor = -0.10
+			}
+		}
+		VOR_shadow_office_spirit = {
+			picture = generic_intelligence_exchange
+			allowed = { always = yes }
+			modifier = {
+				decryption_factor = 0.10
+				encryption_factor = 0.10
+				political_power_gain = 0.05
+			}
+		}
+		VOR_disposable_detachments_spirit = {
+			picture = generic_manpower
+			allowed = { always = yes }
+			modifier = {
+				army_morale_factor = 0.10
+				supply_consumption_factor = -0.05
+				stability_factor = -0.05
+			}
+		}
+		VOR_war_spirit = {
+			picture = generic_war_propaganda
+			allowed = { always = yes }
+			modifier = {
+				war_support_factor = 0.10
+				army_attack_factor = 0.05
+				political_power_gain = -0.05
+			}
+		}
+		VOR_total_mobilization_spirit = {
+			picture = generic_manpower
+			allowed = { always = yes }
+			modifier = {
+				conscription_factor = 0.05
+				training_time_factor = -0.15
+				war_support_factor = 0.05
+			}
+		}
+		VOR_war_collapse_spirit = {
+			picture = generic_political_reform
+			allowed = { always = yes }
+			modifier = {
+				stability_factor = -0.15
+				war_support_factor = -0.10
+				army_org_factor = -0.10
+			}
+		}
+		VOR_shadow_vortex_spirit = {
+			picture = generic_intelligence_exchange
+			allowed = { always = yes }
+			modifier = {
+				political_power_gain = 0.10
+				army_defence_factor = 0.05
+				stability_factor = 0.05
+			}
+		}
+		VOR_ambrelnoe_spirit = {
+			picture = generic_political_reform
+			allowed = { always = yes }
+			modifier = {
+				stability_factor = 0.10
+				political_power_gain = 0.05
+			}
+		}
+		VOR_guerrilla_spirit = {
+			picture = generic_army_reform
+			allowed = { always = yes }
+			modifier = {
+				army_speed_factor = 0.10
+				army_defence_factor = 0.05
+				supply_consumption_factor = -0.10
+			}
+		}
+		VOR_popular_support_spirit = {
+			picture = generic_political_reform
+			allowed = { always = yes }
+			modifier = {
+				stability_factor = 0.10
+				war_support_factor = 0.05
+				political_power_gain = 0.05
+			}
+		}
+		VOR_exile_network_spirit = {
+			picture = generic_intelligence_exchange
+			allowed = { always = yes }
+			modifier = {
+				political_power_gain = 0.05
+				stability_factor = -0.03
+			}
+		}
+		VOR_revanchism_spirit = {
+			picture = generic_war_propaganda
+			allowed = { always = yes }
+			modifier = {
+				war_support_factor = 0.10
+				political_power_gain = -0.05
+			}
+		}
+		VOR_new_ogorod_spirit = {
+			picture = generic_political_reform
+			allowed = { always = yes }
+			modifier = {
+				political_power_gain = 0.10
+				stability_factor = 0.05
+				army_org_factor = 0.05
+			}
+		}
+		VOR_compact_spirit = {
+			picture = generic_intelligence_exchange
+			allowed = { always = yes }
+			modifier = {
+				political_power_gain = 0.15
+				stability_factor = -0.05
+				decryption_factor = 0.05
+			}
+		}
+		OGO_emergency_rule_spirit = {
+			picture = generic_political_reform
+			allowed = { always = yes }
+			modifier = {
+				war_support_factor = 0.10
+				stability_factor = 0.05
+				political_power_gain = -0.05
+			}
+		}
+		OGO_iron_hand_spirit = {
+			picture = generic_army_reform
+			allowed = { always = yes }
+			modifier = {
+				stability_factor = 0.10
+				political_power_gain = 0.05
+				army_defence_factor = 0.05
+			}
+		}
+		OGO_ogorod_victory_spirit = {
+			picture = generic_war_propaganda
+			allowed = { always = yes }
+			modifier = {
+				war_support_factor = 0.10
+				army_attack_factor = 0.10
+			}
+		}
+		OGO_divided_council_spirit = {
+			picture = generic_political_reform
+			allowed = { always = yes }
+			modifier = {
+				political_power_gain = 0.10
+				stability_factor = -0.05
+			}
+		}
+		OGO_atamanov_regency_spirit = {
+			picture = generic_army_reform
+			allowed = { always = yes }
+			modifier = {
+				stability_factor = 0.05
+				army_experience_gain_factor = 0.05
+			}
+		}
+		OGO_ilyich_conspiracy_spirit = {
+			picture = generic_intelligence_exchange
+			allowed = { always = yes }
+			modifier = {
+				political_power_gain = 0.10
+				stability_factor = -0.05
+			}
+		}
+		OGO_purges_spirit = {
+			picture = generic_political_reform
+			allowed = { always = yes }
+			modifier = {
+				political_power_gain = 0.15
+				stability_factor = -0.10
+				army_experience_gain_factor = -0.25
+			}
+		}
+		OGO_chaos_indivisible_spirit = {
+			picture = generic_war_propaganda
+			allowed = { always = yes }
+			modifier = {
+				war_support_factor = 0.10
+				stability_factor = -0.15
+				army_morale_factor = 0.15
+			}
+		}
+		OGO_red_hammer_spirit = {
+			picture = generic_communism
+			allowed = { always = yes }
+			modifier = {
+				political_power_gain = 0.10
+				war_support_factor = 0.05
+				production_factory_max_efficiency_factor = 0.05
+			}
+		}
+		OGO_red_war_spirit = {
+			picture = generic_army_reform
+			allowed = { always = yes }
+			modifier = {
+				army_attack_factor = 0.10
+				war_support_factor = 0.10
+				supply_consumption_factor = -0.05
+			}
+		}
+		OGO_after_departure_spirit = {
+			picture = generic_political_reform
+			allowed = { always = yes }
+			modifier = {
+				stability_factor = -0.10
+				political_power_gain = 0.10
+			}
+		}
+		OGO_dark_watch_spirit = {
+			picture = generic_intelligence_exchange
+			allowed = { always = yes }
+			modifier = {
+				army_defence_factor = 0.10
+				war_support_factor = 0.05
+				decryption_factor = 0.05
+			}
+		}
+		OGO_arena_spirit = {
+			picture = generic_war_propaganda
+			allowed = { always = yes }
+			modifier = {
+				war_support_factor = 0.10
+				army_morale_factor = 0.10
+				stability_factor = -0.05
+			}
+		}
+		OGO_dolgan_league_spirit = {
+			picture = generic_political_reform
+			allowed = { always = yes }
+			modifier = {
+				political_power_gain = 0.15
+				stability_factor = 0.10
+				war_support_factor = -0.05
+			}
+		}
+	}
+}

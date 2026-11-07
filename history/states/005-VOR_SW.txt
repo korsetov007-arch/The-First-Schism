@@ -1,0 +1,20 @@
+state = {
+	id = 5
+	name = "STATE_5"
+	manpower = 46000
+	state_category = rural
+	provinces = { 126 127 128 142 }
+	resources = {
+		tungsten = 3
+	}
+	history = {
+		owner = VOR
+		add_core_of = VOR
+		victory_points = { 127 5 }
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 0
+		}
+	}
+}

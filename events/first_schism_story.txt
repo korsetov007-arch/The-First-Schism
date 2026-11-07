@@ -1,0 +1,285 @@
+add_namespace = first_schism
+
+country_event = {
+	id = first_schism.2
+	title = first_schism.2.t
+	desc = first_schism.2.desc
+	fire_only_once = yes
+	is_triggered_only = yes
+	trigger = { tag = OGO }
+	immediate = {
+		set_cosmetic_tag = WAG
+		promote_character = OGO_atamanov
+		set_global_flag = first_schism_pidofil_exiled
+		remove_ideas = OGO_divided_council_spirit
+		add_ideas = OGO_atamanov_regency_spirit
+	}
+	option = {
+		name = first_schism.2.a
+		add_political_power = 75
+		add_stability = 0.05
+	}
+}
+
+country_event = {
+	id = first_schism.3
+	title = first_schism.3.t
+	desc = first_schism.3.desc
+	fire_only_once = yes
+	is_triggered_only = yes
+	trigger = { tag = OGO }
+	immediate = {
+		set_cosmetic_tag = HYD
+		promote_character = OGO_ilyich
+		remove_ideas = OGO_atamanov_regency_spirit
+		remove_ideas = OGO_ilyich_conspiracy_spirit
+		add_political_power = 50
+	}
+	option = {
+		name = first_schism.3.a
+		add_stability = -0.10
+		add_war_support = 0.05
+	}
+}
+
+country_event = {
+	id = first_schism.4
+	title = first_schism.4.t
+	desc = first_schism.4.desc
+	fire_only_once = yes
+	is_triggered_only = yes
+	trigger = { tag = OGO }
+	immediate = {
+		set_politics = {
+			ruling_party = communism
+			elections_allowed = no
+		}
+		set_cosmetic_tag = RED
+		promote_character = OGO_dimbaz
+		remove_ideas = OGO_purges_spirit
+		remove_ideas = OGO_chaos_indivisible_spirit
+		add_ideas = OGO_red_hammer_spirit
+	}
+	option = {
+		name = first_schism.4.a
+		add_political_power = 100
+		add_stability = 0.05
+	}
+}
+
+country_event = {
+	id = first_schism.5
+	title = first_schism.5.t
+	desc = first_schism.5.desc
+	fire_only_once = yes
+	is_triggered_only = yes
+	trigger = { tag = OGO }
+	immediate = {
+		set_politics = {
+			ruling_party = neutrality
+			elections_allowed = no
+		}
+		set_cosmetic_tag = HYD
+		promote_character = OGO_ilyich
+		remove_ideas = OGO_red_hammer_spirit
+		remove_ideas = OGO_red_war_spirit
+		add_ideas = OGO_after_departure_spirit
+	}
+	option = {
+		name = first_schism.5.a
+		add_political_power = 100
+		add_stability = -0.05
+	}
+}
+
+country_event = {
+	id = first_schism.6
+	title = first_schism.6.t
+	desc = first_schism.6.desc
+	fire_only_once = yes
+	is_triggered_only = yes
+	trigger = { tag = OGO }
+	option = {
+		name = first_schism.6.a
+		ai_chance = { factor = 50 }
+		set_cosmetic_tag = ARE
+		promote_character = OGO_ilyich
+		remove_ideas = OGO_after_departure_spirit
+		add_ideas = OGO_arena_spirit
+		add_war_support = 0.10
+	}
+	option = {
+		name = first_schism.6.b
+		ai_chance = { factor = 50 }
+		set_cosmetic_tag = DOL
+		promote_character = OGO_atamanov
+		remove_ideas = OGO_after_departure_spirit
+		add_ideas = OGO_dolgan_league_spirit
+		add_stability = 0.10
+	}
+}
+
+country_event = {
+	id = first_schism.7
+	title = first_schism.7.t
+	desc = first_schism.7.desc
+	fire_only_once = yes
+	is_triggered_only = yes
+	trigger = { tag = OGO }
+	immediate = {
+		add_ideas = OGO_purges_spirit
+		add_political_power = 75
+	}
+	option = {
+		name = first_schism.7.a
+		add_stability = -0.10
+		army_experience = -10
+	}
+}
+
+country_event = {
+	id = first_schism.8
+	title = first_schism.8.t
+	desc = first_schism.8.desc
+	fire_only_once = yes
+	is_triggered_only = yes
+	trigger = { tag = OGO }
+	immediate = {
+		promote_character = OGO_dimbaz
+		add_ideas = OGO_red_war_spirit
+	}
+	option = {
+		name = first_schism.8.a
+		add_war_support = 0.15
+		declare_war_on = {
+			target = VOR
+			type = annex_everything
+		}
+	}
+}
+
+country_event = {
+	id = first_schism.10
+	title = first_schism.10.t
+	desc = first_schism.10.desc
+	fire_only_once = yes
+	is_triggered_only = yes
+	trigger = { tag = VOR }
+	immediate = {
+		set_cosmetic_tag = WAR
+		promote_character = VOR_spartak
+		add_ideas = VOR_war_spirit
+		add_war_support = 0.15
+		OGO = {
+			country_event = { id = first_schism.11 days = 1 }
+		}
+	}
+	option = {
+		name = first_schism.10.a
+		add_political_power = 75
+	}
+}
+
+country_event = {
+	id = first_schism.11
+	title = first_schism.11.t
+	desc = first_schism.11.desc
+	fire_only_once = yes
+	is_triggered_only = yes
+	trigger = { tag = OGO }
+	option = {
+		name = first_schism.11.a
+		ai_chance = { factor = 55 }
+		set_politics = {
+			ruling_party = neutrality
+			elections_allowed = no
+		}
+		set_cosmetic_tag = DWA
+		promote_character = OGO_ilyich
+		add_ideas = OGO_dark_watch_spirit
+		add_war_support = 0.10
+	}
+	option = {
+		name = first_schism.11.b
+		ai_chance = { factor = 45 }
+		add_political_power = 75
+		add_stability = 0.05
+	}
+}
+
+country_event = {
+	id = first_schism.12
+	title = first_schism.12.t
+	desc = first_schism.12.desc
+	fire_only_once = yes
+	is_triggered_only = yes
+	trigger = { tag = VOR }
+	immediate = {
+		set_country_flag = first_schism_war_collapsed
+		remove_ideas = VOR_war_spirit
+		remove_ideas = VOR_total_mobilization_spirit
+		add_ideas = VOR_war_collapse_spirit
+		add_political_power = -100
+		add_stability = -0.20
+		add_war_support = -0.15
+	}
+	option = {
+		name = first_schism.12.a
+		army_experience = -10
+	}
+}
+
+country_event = {
+	id = first_schism.13
+	title = first_schism.13.t
+	desc = first_schism.13.desc
+	fire_only_once = yes
+	is_triggered_only = yes
+	trigger = { tag = VOR }
+	immediate = {
+		set_cosmetic_tag = VOR
+		promote_character = VOR_spartak
+		remove_ideas = VOR_war_collapse_spirit
+		add_ideas = VOR_shadow_vortex_spirit
+	}
+	option = {
+		name = first_schism.13.a
+		add_political_power = 100
+		add_stability = 0.15
+	}
+}
+
+country_event = {
+	id = first_schism.14
+	title = first_schism.14.t
+	desc = first_schism.14.desc
+	fire_only_once = yes
+	is_triggered_only = yes
+	trigger = { tag = VOR }
+	immediate = {
+		recruit_character = OGO_pidofil
+	}
+	option = {
+		name = first_schism.14.a
+		ai_chance = { factor = 55 }
+		set_politics = {
+			ruling_party = neutrality
+			elections_allowed = no
+		}
+		set_cosmetic_tag = VOR_NEW_OGOROD
+		promote_character = OGO_pidofil
+		remove_ideas = VOR_revanchism_spirit
+		remove_ideas = VOR_compact_spirit
+		add_ideas = VOR_new_ogorod_spirit
+		add_stability = 0.05
+	}
+	option = {
+		name = first_schism.14.b
+		ai_chance = { factor = 45 }
+		set_cosmetic_tag = VOR
+		remove_ideas = VOR_new_ogorod_spirit
+		add_ideas = VOR_compact_spirit
+		add_political_power = 150
+		add_stability = -0.05
+	}
+}

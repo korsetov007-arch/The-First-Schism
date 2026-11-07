@@ -1,0 +1,10 @@
+bookmarks = {
+	bookmark = {
+		name = FIRST_SCHISM
+		desc = FIRST_SCHISM_DESC
+		date = 1962.1.1
+		picture = GFX_select_date_1936
+		default_country = VOR
+		selectable_countries = { VOR OGO }
+	}
+}

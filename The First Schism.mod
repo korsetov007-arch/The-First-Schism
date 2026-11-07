@@ -1,0 +1,17 @@
+name="The First Schism"
+version="0.2.0"
+tags={
+	"Alternative History"
+	"Map"
+	"National Focuses"
+	"Events"
+}
+supported_version="1.19.*"
+path="mod/The First Schism"
+replace_path="common/bookmarks"
+replace_path="common/national_focus"
+replace_path="history/countries"
+replace_path="history/states"
+replace_path="history/units"
+replace_path="map/strategicregions"
+replace_path="map/supplyareas"

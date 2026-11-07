@@ -1,0 +1,278 @@
+focus_tree = {
+	id = first_schism_VOR_focus
+	country = {
+		factor = 0
+		modifier = {
+			add = 10
+			tag = VOR
+		}
+	}
+	default = no
+
+	focus = {
+		id = VOR_first_schism
+		icon = GFX_goal_generic_national_unity
+		cost = 5
+		x = 10
+		y = 0
+		completion_reward = {
+			add_political_power = 120
+			add_stability = 0.05
+		}
+		ai_will_do = { factor = 10 }
+	}
+
+	focus = {
+		id = VOR_vortex_group
+		icon = GFX_goal_generic_army_reform
+		prerequisite = { focus = VOR_first_schism }
+		mutually_exclusive = { focus = VOR_ambrelnoe_selo }
+		cost = 10
+		x = 6
+		y = 1
+		completion_reward = {
+			add_ideas = VOR_vortex_group_spirit
+			army_experience = 10
+			add_political_power = 50
+		}
+		ai_will_do = { factor = 8 }
+	}
+
+	focus = {
+		id = VOR_military_reform
+		icon = GFX_goal_generic_army_infantry
+		prerequisite = { focus = VOR_vortex_group }
+		cost = 10
+		x = 5
+		y = 2
+		completion_reward = {
+			add_ideas = VOR_reformed_command_spirit
+			army_experience = 15
+		}
+		ai_will_do = { factor = 7 }
+	}
+
+	focus = {
+		id = VOR_shadow_office
+		icon = GFX_goal_generic_secret_weapon
+		prerequisite = { focus = VOR_vortex_group }
+		cost = 10
+		x = 7
+		y = 2
+		completion_reward = {
+			add_ideas = VOR_shadow_office_spirit
+			add_political_power = 75
+		}
+		ai_will_do = { factor = 7 }
+	}
+
+	focus = {
+		id = VOR_disposable_detachments
+		icon = GFX_goal_generic_war_propaganda
+		prerequisite = { focus = VOR_military_reform }
+		cost = 10
+		x = 4
+		y = 3
+		completion_reward = {
+			add_ideas = VOR_disposable_detachments_spirit
+			add_war_support = 0.10
+			add_stability = -0.05
+		}
+		ai_will_do = { factor = 5 }
+	}
+
+	focus = {
+		id = VOR_war_revival
+		icon = GFX_goal_generic_major_war
+		prerequisite = {
+			focus = VOR_military_reform
+			focus = VOR_shadow_office
+		}
+		cost = 10
+		x = 6
+		y = 3
+		completion_reward = {
+			country_event = { id = first_schism.10 }
+		}
+		ai_will_do = { factor = 7 }
+	}
+
+	focus = {
+		id = VOR_total_mobilization
+		icon = GFX_goal_generic_mobilization
+		prerequisite = { focus = VOR_war_revival }
+		cost = 10
+		x = 6
+		y = 4
+		completion_reward = {
+			add_ideas = VOR_total_mobilization_spirit
+			add_war_support = 0.10
+			army_experience = 10
+		}
+		ai_will_do = { factor = 6 }
+	}
+
+	focus = {
+		id = VOR_old_account
+		icon = GFX_goal_generic_territorial_expansion
+		prerequisite = { focus = VOR_war_revival }
+		cost = 10
+		x = 8
+		y = 4
+		completion_reward = {
+			add_war_support = 0.05
+			create_wargoal = {
+				type = annex_everything
+				target = OGO
+			}
+		}
+		ai_will_do = { factor = 5 }
+	}
+
+	focus = {
+		id = VOR_war_collapse
+		icon = GFX_goal_generic_civil_war
+		prerequisite = { focus = VOR_total_mobilization }
+		cost = 10
+		x = 6
+		y = 5
+		completion_reward = {
+			country_event = { id = first_schism.12 }
+		}
+		ai_will_do = { factor = 4 }
+	}
+
+	focus = {
+		id = VOR_shadow_vortex_rebirth
+		icon = GFX_goal_generic_secret_weapon
+		prerequisite = { focus = VOR_war_collapse }
+		cost = 10
+		x = 6
+		y = 6
+		completion_reward = {
+			country_event = { id = first_schism.13 }
+			add_political_power = 100
+		}
+		ai_will_do = { factor = 5 }
+	}
+
+	focus = {
+		id = VOR_ambrelnoe_selo
+		icon = GFX_goal_generic_national_unity
+		prerequisite = { focus = VOR_first_schism }
+		mutually_exclusive = { focus = VOR_vortex_group }
+		cost = 10
+		x = 11
+		y = 1
+		completion_reward = {
+			promote_character = VOR_shlang
+			add_ideas = VOR_ambrelnoe_spirit
+			add_stability = 0.10
+		}
+		ai_will_do = { factor = 6 }
+	}
+
+	focus = {
+		id = VOR_local_war
+		icon = GFX_goal_generic_military_treaty
+		prerequisite = { focus = VOR_ambrelnoe_selo }
+		cost = 10
+		x = 11
+		y = 2
+		completion_reward = {
+			add_war_support = 0.10
+			army_experience = 15
+			add_political_power = 50
+		}
+		ai_will_do = { factor = 6 }
+	}
+
+	focus = {
+		id = VOR_guerrilla_warfare
+		icon = GFX_goal_generic_army_infantry
+		prerequisite = { focus = VOR_local_war }
+		cost = 10
+		x = 10
+		y = 3
+		completion_reward = {
+			add_ideas = VOR_guerrilla_spirit
+			army_experience = 10
+		}
+		ai_will_do = { factor = 6 }
+	}
+
+	focus = {
+		id = VOR_popular_support
+		icon = GFX_goal_generic_political_pressure
+		prerequisite = { focus = VOR_local_war }
+		cost = 10
+		x = 12
+		y = 3
+		completion_reward = {
+			add_ideas = VOR_popular_support_spirit
+			add_stability = 0.10
+			add_political_power = 75
+		}
+		ai_will_do = { factor = 6 }
+	}
+
+	focus = {
+		id = VOR_exiles_dossier
+		icon = GFX_goal_generic_secret_weapon
+		prerequisite = { focus = VOR_first_schism }
+		available = { has_global_flag = first_schism_pidofil_exiled }
+		cost = 10
+		x = 16
+		y = 1
+		completion_reward = {
+			add_ideas = VOR_exile_network_spirit
+			add_political_power = 75
+		}
+		ai_will_do = { factor = 4 }
+	}
+
+	focus = {
+		id = VOR_revanchist_network
+		icon = GFX_goal_generic_demand_territory
+		prerequisite = { focus = VOR_exiles_dossier }
+		available = { has_global_flag = first_schism_pidofil_exiled }
+		cost = 10
+		x = 16
+		y = 2
+		completion_reward = {
+			add_ideas = VOR_revanchism_spirit
+			add_war_support = 0.10
+		}
+		ai_will_do = { factor = 4 }
+	}
+
+	focus = {
+		id = VOR_betrayal_at_council
+		icon = GFX_goal_generic_political_pressure
+		prerequisite = { focus = VOR_revanchist_network }
+		available = { has_global_flag = first_schism_pidofil_exiled }
+		cost = 10
+		x = 16
+		y = 3
+		completion_reward = {
+			add_political_power = 100
+			add_stability = -0.10
+			remove_ideas = VOR_exile_network_spirit
+		}
+		ai_will_do = { factor = 4 }
+	}
+
+	focus = {
+		id = VOR_new_ogorod
+		icon = GFX_goal_generic_national_unity
+		prerequisite = { focus = VOR_betrayal_at_council }
+		available = { has_global_flag = first_schism_pidofil_exiled }
+		cost = 10
+		x = 16
+		y = 4
+		completion_reward = {
+			country_event = { id = first_schism.14 }
+		}
+		ai_will_do = { factor = 4 }
+	}
+}
