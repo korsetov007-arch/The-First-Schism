@@ -1,4 +1,4 @@
-capital = 100
+capital = 215
 set_politics = {
 	ruling_party = neutrality
 	elections_allowed = no
@@ -18,6 +18,8 @@ set_technology = {
 	gw_artillery = 1
 }
 recruit_character = OGO_pidofil
+promote_character = OGO_pidofil
+add_ideas = OGO_divided_council_spirit
 recruit_character = OGO_atamanov
 recruit_character = OGO_ilyich
 recruit_character = OGO_dimbaz

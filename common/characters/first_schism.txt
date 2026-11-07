@@ -143,4 +143,14 @@ characters = {
 			desc = OGO_perchik_desc
 		}
 	}
+
+	MOS_council = {
+		name = MOS_council
+		portraits = {
+			civilian = { large = GFX_portrait_generic_europe_1 small = GFX_portrait_generic_europe_1_small }
+			army = { large = GFX_portrait_generic_europe_2 small = GFX_portrait_generic_europe_2_small }
+		}
+		country_leader = { ideology = despotism traits = { } desc = MOS_council_desc }
+	}
+
 }

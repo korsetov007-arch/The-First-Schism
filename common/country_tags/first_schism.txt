@@ -1,2 +1,4 @@
 VOR = "countries/VOR.txt"
 OGO = "countries/OGO.txt"
+MOS = "countries/MOS.txt"
+DWA = "countries/DWA.txt"

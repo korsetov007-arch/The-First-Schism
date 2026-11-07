@@ -2,7 +2,7 @@ on_actions = {
 	on_startup = {
 		effect = {
 			OGO = {
-				country_event = { id = first_schism.1 days = 1 }
+				country_event = { id = moscow_crisis.1 days = 1 }
 			}
 		}
 	}

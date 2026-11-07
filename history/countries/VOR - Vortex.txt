@@ -1,4 +1,4 @@
-capital = 741
+capital = 8
 set_politics = {
 	ruling_party = neutrality
 	elections_allowed = no
@@ -18,6 +18,8 @@ set_technology = {
 	gw_artillery = 1
 }
 recruit_character = VOR_spartak
+promote_character = VOR_spartak
+add_ideas = VOR_vortex_group_spirit
 recruit_character = VOR_shlang
 division_template = {
 	name = "Vortex Battalion"

@@ -251,5 +251,14 @@ ideas = {
 				war_support_factor = -0.05
 			}
 		}
+		MOS_municipal_authority_spirit = { picture = generic_political_reform allowed = { always = yes } modifier = { stability_factor = 0.10 political_power_gain = 0.05 } }
+		MOS_civic_guard_spirit = { picture = generic_army_reform allowed = { always = yes } modifier = { army_defence_factor = 0.05 army_org_factor = 0.05 } }
+		MOS_transport_spirit = { picture = generic_infrastructure allowed = { always = yes } modifier = { army_speed_factor = 0.05 supply_consumption_factor = -0.05 } }
+		MOS_emergency_mandate_spirit = { picture = generic_political_reform allowed = { always = yes } modifier = { stability_factor = 0.05 war_support_factor = 0.05 political_power_gain = 0.05 } }
+		VOR_absorption_program_spirit = { picture = generic_political_pressure allowed = { always = yes } modifier = { political_power_gain = 0.05 war_support_factor = 0.05 } }
+		DWA_dark_watch_spirit = { picture = generic_intelligence_exchange allowed = { always = yes } modifier = { army_attack_factor = 0.05 army_defence_factor = 0.05 war_support_factor = 0.05 stability_factor = -0.05 } }
+		DWA_shadow_network_spirit = { picture = generic_intelligence_exchange allowed = { always = yes } modifier = { decryption_factor = 0.10 political_power_gain = 0.05 } }
+		DWA_spectacle_spirit = { picture = generic_war_propaganda allowed = { always = yes } modifier = { war_support_factor = 0.10 army_morale_factor = 0.05 stability_factor = -0.10 } }
+
 	}
 }

@@ -1,0 +1,13 @@
+focus_tree = {
+ id = first_schism_MOS_focus
+ country = { factor = 0 modifier = { add = 10 tag = MOS } }
+ default = no
+ focus = { id = MOS_first_mandate icon = GFX_goal_generic_national_unity cost = 5 x = 6 y = 0 completion_reward = { add_political_power = 120 add_stability = 0.10 } }
+ focus = { id = MOS_admin_records icon = GFX_goal_generic_political_pressure prerequisite = { focus = MOS_first_mandate } cost = 10 x = 3 y = 1 completion_reward = { add_ideas = MOS_municipal_authority_spirit add_political_power = 50 } }
+ focus = { id = MOS_public_works icon = GFX_goal_generic_construct_civilian prerequisite = { focus = MOS_first_mandate } cost = 10 x = 9 y = 1 completion_reward = { add_ideas = MOS_transport_spirit add_political_power = 50 } }
+ focus = { id = MOS_municipal_guard icon = GFX_goal_generic_army_infantry prerequisite = { focus = MOS_admin_records } cost = 10 x = 2 y = 2 completion_reward = { add_ideas = MOS_civic_guard_spirit army_experience = 15 add_war_support = 0.05 } }
+ focus = { id = MOS_investigate_private_contracts icon = GFX_goal_generic_intelligence_exchange prerequisite = { focus = MOS_admin_records } cost = 10 x = 4 y = 2 completion_reward = { add_political_power = 75 OGO = { add_stability = 0.05 } VOR = { add_political_power = -25 } } }
+ focus = { id = MOS_mediation_committee icon = GFX_goal_generic_military_treaty prerequisite = { focus = MOS_public_works } cost = 10 x = 9 y = 2 completion_reward = { set_global_flag = first_schism_moscow_mediation add_stability = 0.05 add_political_power = 75 } }
+ focus = { id = MOS_emergency_mandate icon = GFX_goal_generic_political_pressure prerequisite = { focus = MOS_municipal_guard } prerequisite = { focus = MOS_mediation_committee } cost = 10 x = 6 y = 3 completion_reward = { add_ideas = MOS_emergency_mandate_spirit add_stability = 0.05 add_war_support = 0.05 } }
+ focus = { id = MOS_defend_city_charter icon = GFX_goal_generic_major_war prerequisite = { focus = MOS_emergency_mandate } cost = 10 x = 6 y = 4 completion_reward = { add_political_power = 100 add_stability = 0.10 army_experience = 10 set_global_flag = first_schism_moscow_charter_defended } }
+}

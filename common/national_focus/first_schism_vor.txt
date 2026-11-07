@@ -121,9 +121,12 @@ focus_tree = {
 		y = 4
 		completion_reward = {
 			add_war_support = 0.05
-			create_wargoal = {
-				type = annex_everything
-				target = OGO
+			if = {
+				limit = { NOT = { has_war_with = OGO } }
+				create_wargoal = {
+					type = annex_everything
+					target = OGO
+				}
 			}
 		}
 		ai_will_do = { factor = 5 }
@@ -275,4 +278,25 @@ focus_tree = {
 		}
 		ai_will_do = { factor = 4 }
 	}
+
+	focus = {
+		id = VOR_contract_pressure
+		icon = GFX_goal_generic_political_pressure
+		prerequisite = { focus = VOR_first_schism }
+		available = { has_global_flag = first_schism_ogo_peace_path }
+		cost = 10
+		x = 14
+		y = 1
+		completion_reward = { add_ideas = VOR_absorption_program_spirit add_political_power = 75 set_country_flag = VOR_absorption_started }
+	}
+	focus = {
+		id = VOR_claim_registry
+		icon = GFX_goal_generic_territorial_expansion
+		prerequisite = { focus = VOR_contract_pressure }
+		cost = 10
+		x = 14
+		y = 2
+		completion_reward = { add_war_support = 0.05 add_political_power = 75 army_experience = 10 }
+	}
+
 }
