@@ -2,9 +2,27 @@ bookmarks = {
 	bookmark = {
 		name = FIRST_SCHISM
 		desc = FIRST_SCHISM_DESC
-		date = 1962.1.1
+		date = 2023.2.19.12
 		picture = GFX_select_date_1936
+		default = yes
 		default_country = MOS
-		selectable_countries = { MOS VOR OGO }
+
+		MOS = {
+			history = FIRST_SCHISM_DESC
+			ideology = neutrality
+		}
+		VOR = {
+			history = FIRST_SCHISM_DESC
+			ideology = neutrality
+			minor = yes
+		}
+		OGO = {
+			history = FIRST_SCHISM_DESC
+			ideology = neutrality
+			minor = yes
+		}
+		"---" = {
+			history = FIRST_SCHISM_DESC
+		}
 	}
 }

@@ -22,3 +22,8 @@ The district geometry is derived from `karen07/moscow-geo` (`geojson/districts-i
 ## Rebuild starting state ownership
 
 Run `python tools/build_moscow_scenario.py` from the project folder to regenerate all 108 Moscow state-history files from the GIS province/district mapping. The script validates that province IDs 1–906 are unique and assigns 82 states to the Moscow Administration, 14 to Vortex, and 12 to Ogorod.
+
+
+## Starting bookmark
+
+The campaign starts on **19 February 2023**, the date reported for the first widely discussed clash at Moscow's Aviapark shopping centre associated with the "Redan" wave. The bookmark is defined in `common/bookmarks/first_schism.txt`; the timeline overrides are in `common/defines/first_schism.lua` and use the `NDefines` namespace expected by HOI4.
