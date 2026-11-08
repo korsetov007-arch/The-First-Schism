@@ -7,7 +7,6 @@ tags={
 	"Events"
 }
 supported_version="1.19.*"
-replace_path="common/bookmarks"
 replace_path="common/national_focus"
 replace_path="history/countries"
 replace_path="history/states"

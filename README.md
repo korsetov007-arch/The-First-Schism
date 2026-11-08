@@ -12,7 +12,7 @@ The editor uses `map\provinces.bmp` and `map\definition.csv` for province editin
 
 ## Install in Hearts of Iron IV
 
-Copy the project folder to `Documents\Paradox Interactive\Hearts of Iron IV\mod\The First Schism`. Copy `The First Schism.mod` to the parent `mod` folder, then enable **The First Schism** in the Paradox launcher.
+In the Paradox launcher, create a local mod named **The First Schism**. Copy the project contents into the folder created by the launcher, keeping the launcher's generated `.mod` file in the parent `mod` folder so its path points to the installed folder. Then enable **The First Schism** in the launcher. Do not copy the repository's `The First Schism.mod`: its relative path is not portable across installations and can leave the mod listed in the launcher without loading its files in-game.
 
 ## Map source
 
